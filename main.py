@@ -13,7 +13,7 @@ NAME_COL = { 5 : "Weapon",
     9 : "B",
     10 : "C"
 }
-USE_ONLY_CURATED = True
+USE_ONLY_CURATED = False
 
 skills = {}
 heroes = []
@@ -81,7 +81,10 @@ def main():
         browse_hero_builds(hero.name)
 
     heroes.sort(key=lambda hero : hero.get_score())
-    with open('out.txt', 'w') as f:
+    filename = "out.txt"
+    if USE_ONLY_CURATED:
+        filename = "curated_" + filename
+    with open(filename, 'w') as f:
         print(heroes, file=f)
         print("------------------------------------", file=f)
         print(sorted(skills.values(), key=operator.attrgetter('score')), file=f)

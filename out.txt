@@ -1,0 +1,693 @@
+[Elise_(Nohrian_Summer) : 2
+, Chrom_(Spring_Festival) : 9
+, Lachesis : 13
+, Priscilla : 14
+, Corrin_(M)_(Happy_New_Year!) : 16
+, Sakura : 21
+, Est : 23
+, Shigure_(Performing_Arts) : 25
+, Camilla_(Spring_Festival) : 27
+, Virion : 27
+, Soren : 31
+, Marth_(Masked) : 35
+, Lyn_(Bridal_Blessings) : 37
+, Sheena : 40
+, Tailtiu : 40
+, Xander : 40
+, Jeorge : 44
+, Clarine : 46
+, Lute : 47
+, Merric : 47
+, Elise : 48
+, Fjorm : 48
+, Wrys : 49
+, Raigh : 50
+, Maria : 51
+, Oliver : 52
+, Kagero : 53
+, Mist : 53
+, Corrin_(F)_(Nohrian_Summer) : 56
+, Gaius : 56
+, Oboro : 56
+, Camus : 57
+, Seliph : 57
+, Sophia : 57
+, Corrin_(M) : 61
+, Ninian : 61
+, Berkut : 63
+, Saizo : 63
+, Genny : 66
+, Sharena : 68
+, Lucius : 74
+, Lilina : 76
+, Tiki_(Young) : 76
+, Lukas : 77
+, Saber : 77
+, Gwendolyn : 79
+, Azura : 81
+, Henry_(Trick_or_Defeat!) : 83
+, Azura_(Happy_New_Year!) : 84
+, Serra : 84
+, Cordelia_(Bridal_Blessings) : 85
+, Eliwood : 85
+, Tiki_(Adult)_(Ylissean_Summer) : 86
+, Inigo_(Performing_Arts) : 87
+, Olivia : 89
+, Lyn : 90
+, Nowi : 91
+, Roderick : 91
+, Soleil : 91
+, Beruka : 92
+, Cecilia : 96
+, Mathilda : 96
+, Celica : 100
+, Sigurd : 101
+, Ryoma : 102
+, Arden : 103
+, Caeda : 106
+, Roy : 106
+, Julia : 110
+, Oscar : 110
+, Camilla_(Happy_New_Year!) : 112
+, Faye : 112
+, Clair : 113
+, Arvis : 115
+, Azura_(Performing_Arts) : 116
+, Olivia_(Performing_Arts) : 117
+, Azama : 125
+, Tharja : 126
+, Clive : 127
+, Charlotte_(Bridal_Blessings) : 129
+, Hinoka : 134
+, Fir : 135
+, Laslow : 136
+, Zelgius : 136
+, Lucina_(Brave_Heroes) : 138
+, Micaiah : 140
+, Black_Knight : 141
+, Sakura_(Trick_or_Defeat!) : 142
+, Draug : 143
+, Gunter : 145
+, Lucina_(Spring_Festival) : 145
+, Amelia : 146
+, Hector : 146
+, Jakob : 146
+, Lissa : 147
+, Gunnthr%C3%A1 : 150
+, Ogma : 150
+, Chrom : 151
+, Sanaki : 157
+, Lucina : 162
+, Felicia : 164
+, Rhajat : 170
+, Corrin_(F) : 179
+, Takumi : 183
+, Frederick_(Ylissean_Summer) : 197
+, Cordelia : 198
+, Michalis : 200
+, Niles : 200
+, Anna : 202
+, Linde : 202
+, Narcian : 204
+, Robin_(M)_(Winter%27s_Envoy) : 217
+, Setsuna : 220
+, Chrom_(Winter%27s_Envoy) : 222
+, Robin_(F) : 222
+, Titania : 225
+, Alm : 228
+, Cherche : 231
+, Reinhardt : 234
+, Jakob_(Trick_or_Defeat!) : 237
+, Leo_(Nohrian_Summer) : 239
+, Marth : 240
+, Innes : 243
+, Tobin : 244
+, Caeda_(Bridal_Blessings) : 251
+, Hana : 254
+, Peri : 258
+, Rebecca : 261
+, Matthew : 262
+, Tharja_(Winter%27s_Envoy) : 265
+, Minerva : 267
+, Raven : 269
+, Cain : 270
+, Katarina : 270
+, Leon : 271
+, Lyn_(Brave_Heroes) : 272
+, Florina : 276
+, Henry : 284
+, Abel : 285
+, Eirika : 285
+, Gordin : 286
+, Clarisse : 287
+, Donnel : 287
+, Zephiel : 290
+, Lon%27qu : 293
+, Sothe : 296
+, Gaius_(Ylissean_Summer) : 297
+, Lloyd : 302
+, Gray : 305
+, Roy_(Brave_Heroes) : 305
+, Xander_(Spring_Festival) : 308
+, Camilla : 309
+, Ursula : 310
+, Delthea : 317
+, Siegbert : 317
+, Shiro : 319
+, Stahl : 324
+, Catria : 334
+, Effie : 334
+, Alfonse : 338
+, Ike : 338
+, Boey : 340
+, Robin_(M) : 352
+, Frederick : 355
+, Seth : 363
+, Lissa_(Winter%27s_Envoy) : 364
+, Xander_(Nohrian_Summer) : 365
+, Karel : 372
+, Navarre : 372
+, Nino : 373
+, Leo : 385
+, Ayra : 393
+, Tiki_(Adult) : 394
+, Hawkeye : 395
+, Ike_(Brave_Heroes) : 395
+, Jaffar : 409
+, Arthur : 424
+, Eldigan : 425
+, Elincia : 431
+, Dorcas : 436
+, Valter : 439
+, Legion : 442
+, Bartre : 445
+, Hinata : 455
+, Deirdre : 476
+, Mia : 476
+, Sully : 476
+, Jagen : 477
+, Luke : 488
+, Fae : 501
+, Mae : 523
+, Shanna : 552
+, Tana : 570
+, Sonya : 602
+, Takumi_(Happy_New_Year!) : 612
+, Odin : 619
+, Subaki : 623
+, Joshua : 634
+, Athena : 650
+, Nephenee : 680
+, Palla : 686
+, Klein : 703
+, Ephraim : 745
+, Robin_(F)_(Ylissean_Summer) : 832
+, Olwen : 844
+, Barst : 880
+, Nowi_(Trick_or_Defeat!) : 880
+, Selena : 1016
+]
+------------------------------------
+[Bracing Blow 2 / A / 0
+, Axe Experience 3 / C / 0
+, Shine+ / Weapon / 0
+, B Tome Valor 3 / C / 0
+, R Tome Valor 3 / C / 0
+, Bow Exp. 3 / C / 0
+, G Tome Valor 3 / C / 0
+, Blazing Thunder / Special / 0
+, Rally Attack Resistance / Assist / 0
+, HP Spd 2 / A / 0
+, Sword Exp. 3 / C / 0
+, Axe Valor 3 / C / 0
+, Dagger Valor 3 / C / 0
+, Lance Valor 3 / C / 0
+, Attack Def +2 / A / 0
+, B Tome Exp. 3 / C / 0
+, Pass 3 / B / 0
+, HP Res 2 / A / 0
+, Knock Back / B / 0
+, Flametongue+ / Weapon / 0
+, Live for Honor / B / 0
+, Live for Bounty / B / 0
+, Berkut's Lance / ? / 1
+, Blue Tomebreaker 3 / ? / 1
+, Growing Light / Special / 1
+, Killer Axe / ? / 1
+, Spur spd 3 / ? / 1
+, Wrath / ? / 1
+, Swift Sparrow 3 / ? / 1
+, Rally Atk Spd / ? / 1
+, Rally / ? / 1
+, 23px / ? / 1
+, Guard 2 / ? / 1
+, Growing Thunder / Special / 1
+, swap / ? / 1
+, Hibiscus Tome+ / Weapon / 1
+, Blizzard / Weapon / 1
+, Dark Breath / ? / 1
+, Flexible / ? / 1
+, Blárwolf+ / Weapon / 1
+, Raudrraven+ / ? / 1
+, Atk/Res Bond 3 / ? / 1
+, Rally Speed Resistance / Assist / 1
+, Dark Aura / Weapon / 1
+, Deflect Magic 3 / ? / 1
+, Killing Edge / ? / 1
+, Attack 3 / ? / 1
+, Distant Defense 3 / ? / 1
+, Slaying Lance / ? / 1
+, Swift Strike 2 / A / 1
+, Flier Formation 3 / B / 1
+, Defiant Res 3 / A / 1
+, Atk Tactic 3 / C / 1
+, Gravity+ / Weapon / 1
+, threaten Def 3 / ? / 1
+, Rally Atk/Spd / ? / 1
+, Sealife Tome+ / Weapon / 1
+, Grani's Shield / A / 1
+, Fortress Defense 3 / ? / 1
+, Sack o' Gifts / ? / 1
+, New Moon / ? / 1
+, Poison Dagger / ? / 1
+, Solid-Earth Balm / Special / 1
+, Obstruct 3 / B / 1
+, Wings of Mercy / ? / 1
+, Raudrblade+ / ? / 1
+, Swift Sparrow / ? / 1
+, Defense 3 / ? / 1
+, Ruby Sword / ? / 1
+, Sword Valor 3 / C / 1
+, Slaying Hammer+ / ? / 1
+, Keen Blárwolf+ / ? / 1
+, Steady Stance / ? / 1
+, Blaze Dance 3 / B / 1
+, Dancer's Fan+ / Weapon / 1
+, Resistance +2 / ? / 1
+, Sturdy Blow 3 / ? / 1
+, Hama Ya+ / Weapon / 1
+, Guidance / ? / 1
+, Death Blow / ? / 1
+, Rally Res / ? / 1
+, Chilling Wind / ? / 1
+, Firesweep Bow / ? / 1
+, Savage Blow / ? / 1
+, Melon Crusher / ? / 1
+, Spd Res 2 / A / 1
+, sing / ? / 1
+, Water Boost 2 / ? / 1
+, Earth Dance 3 / B / 1
+, Life and Death / ? / 1
+, Sapphire Lance / ? / 1
+, Sword Breaker 3 / ? / 1
+, Rauorraven+ / ? / 1
+, Rauðrraven / ? / 1
+, Windsweep / ? / 1
+, Swordbreaker 1 / ? / 1
+, Heavy Spear+ / Weapon / 1
+, Fortify Dragons / C / 1
+, Panic Ploy / ? / 1
+, Daggerbreaker 3 / B / 1
+, Drive Res 2 / C / 2
+, Rally Atk / ? / 2
+, Firesweep S+ / ? / 2
+, Tannenboom!+ / Weapon / 2
+, Panic+ / Weapon / 2
+, Threaten Def 2 / ? / 2
+, Rauðrblade / ? / 2
+, Rally Resistance / Assist / 2
+, Rauðrwolf+ / Weapon / 2
+, Firesweep L+ / ? / 2
+, Blessed Bouquet+ / Weapon / 2
+, Steady Blow 2 / A / 2
+, Green Egg+ / Weapon / 2
+, Firesweep Lance / ? / 2
+, Rexcalibur+ / Weapon / 2
+, Blarowl+ / ? / 2
+, Lunge / B / 2
+, Warp Powder / B / 2
+, Brave Bow / ? / 2
+, Rally Spd / ? / 2
+, Spd Def Bond 3 / A / 2
+, Emerald Axe / ? / 2
+, Dancer's Ring+ / Weapon / 2
+, Assassin's Bow+ / Weapon / 2
+, Blazing Flame / Special / 2
+, moonbow / ? / 2
+, Blue Egg+ / Weapon / 2
+, Armorsmasher+ / ? / 2
+, Triangle Adept 2 / ? / 2
+, Chilling Seal / B / 2
+, Rally Attack Defense / Assist / 2
+, 23x23px / ? / 2
+, Rally Def Res / ? / 2
+, Kadomatsu+ / Weapon / 2
+, Blazing Wind / Special / 2
+, Reconcile / ? / 2
+, Dancer's Score+ / Weapon / 2
+, Candlelight+ / Weapon / 2
+, Wo Dao / ? / 2
+, Geyser Dance 2 / B / 2
+, Hone Spd 2 / ? / 2
+, Rally Spd Def / ? / 2
+, Desperation / ? / 2
+, Still-Water Balm / Special / 2
+, Killer Bow+ / Weapon / 2
+, Absorb+ / Weapon / 2
+, Gale Dance 3 / B / 3
+, Brave Sword / ? / 3
+, Gronnwolf+ / Weapon / 3
+, Spd Def 2 / A / 3
+, Spectral Tome+ / Weapon / 3
+, Fenrir+ / Weapon / 3
+, Spur Atk Spd 2 / C / 3
+, Sack o' Gifts+ / Weapon / 3
+, Keen Gronnwolf+ / Weapon / 3
+, Beorc's Blessing / B / 3
+, Svalinn Shield / A / 3
+, Binding Blade / Weapon / 3
+, First Bite+ / Weapon / 3
+, Fury 2 / ? / 3
+, Slaying Spear+ / ? / 3
+, Fujin Yumi / Weapon / 3
+, Blazing Light / Special / 3
+, Slow+ / Weapon / 3
+, Bolganone+ / Weapon / 3
+, Brave Lance / ? / 3
+, Infantry Pulse / ? / 3
+, Durandal / Weapon / 3
+, Carrot Axe+ / Weapon / 3
+, Attack Res 2 / A / 3
+, Bright Naginata / Weapon / 4
+, Candelabra+ / Weapon / 4
+, Spur Res 3 / C / 4
+, Hammer+ / Weapon / 4
+, Drive Def 2 / C / 4
+, Recover Ring / B / 4
+, HP Def 2 / A / 4
+, Ward Armor 3 / ? / 4
+, Regal Blade / Weapon / 4
+, Gravity / ? / 4
+, Atk Spd 2 / A / 4
+, Parthia / Weapon / 4
+, Sieglinde / Weapon / 4
+, Def Tactic 3 / C / 4
+, Cupid Arrow+ / Weapon / 4
+, Peshkatz / Weapon / 4
+, Sacrifice / Assist / 4
+, Lilith Floatie+ / Weapon / 4
+, Swordbreaker 2 / ? / 4
+, Renewal 2 / ? / 4
+, Ward Fliers / C / 4
+, Tomato Tome+ / Weapon / 4
+, Silver Bow+ / Weapon / 4
+, Urðr / Weapon / 4
+, Grimoire / Weapon / 5
+, Brave Axe / ? / 5
+, Mend / ? / 5
+, Martyr+ / Assist / 5
+, Seal Atk Def 2 / B / 5
+, Wind Boost 3 / A / 5
+, Brynhildr / Weapon / 5
+, Spur Def 3 / C / 5
+, Thani / Weapon / 5
+, Handbell+ / Weapon / 5
+, Brazen Atk Spd 3 / A / 5
+, Fortify Armor / C / 5
+, Cymbeline / Weapon / 5
+, Mulagir / Weapon / 5
+, Rally Speed Defense / Assist / 5
+, Nidhogg / Weapon / 5
+, Silver Axe+ / Weapon / 5
+, Monstrous Bow+ / Weapon / 5
+, Spur Spd Def 2 / C / 5
+, Ice Mirror / Special / 5
+, Eckesachs / Weapon / 5
+, Blárblade / ? / 5
+, Growing Flame / Special / 5
+, Slow / ? / 5
+, Sacae's Blessing / B / 5
+, Goad Armor / C / 5
+, Rehabilitate+ / Assist / 5
+, Seal Res 3 / B / 5
+, Warding Stance 3 / A / 5
+, Tyrfing / Weapon / 5
+, Hagoita+ / Weapon / 6
+, Shove / Assist / 6
+, Fear+ / Weapon / 6
+, Divine Naga / Weapon / 6
+, Panic / ? / 6
+, Fierce Stance 3 / A / 6
+, Hone Armor / C / 6
+, Physic+ / Assist / 6
+, Crusader's Ward / B / 6
+, Life and Death 2 / ? / 6
+, Mirror Strike 2 / A / 6
+, Zanbato+ / Weapon / 6
+, Dark Excalibur / Weapon / 6
+, Refreshing Bolt+ / Weapon / 6
+, Aura / Weapon / 6
+, Live to Serve 2 / ? / 6
+, Ragnarok / Weapon / 6
+, Ayra's Blade / Weapon / 6
+, Weirding Tome / Weapon / 6
+, Light Breath+ / Weapon / 6
+, Spur Def Res 2 / C / 6
+, Raijinto / Weapon / 6
+, Valflame / Weapon / 6
+, Kagami Mochi+ / Weapon / 7
+, Gronnblade / ? / 7
+, Warding Blow 3 / A / 7
+, Yato / Weapon / 7
+, Resolute Blade / Weapon / 7
+, Nóatún / Weapon / 7
+, Fortify Def 3 / C / 7
+, Geirskögul / Weapon / 7
+, Astra / Special / 7
+, Silver Sword+ / Weapon / 7
+, Rally Defense / Assist / 7
+, Naga / Weapon / 7
+, Brazen Atk Def 3 / A / 7
+, Rally Attack Speed / Assist / 7
+, Martyr / ? / 7
+, Killer Lance+ / Weapon / 7
+, Spur Spd 3 / C / 7
+, Vidofnir / Weapon / 7
+, Sol Katti / Weapon / 7
+, Armads / Weapon / 7
+, Atk Def Bond 3 / A / 7
+, Carrot Lance+ / Weapon / 8
+, Defiant Spd 3 / A / 8
+, Seal Def 3 / B / 8
+, Deathly Dagger / Weapon / 8
+, Fortify Res 3 / C / 8
+, Legion's Axe+ / Weapon / 8
+, Pain+ / Weapon / 8
+, Stout Tomahawk / Weapon / 8
+, Absorb / ? / 8
+, Growing Wind / Special / 8
+, Ridersbane+ / Weapon / 8
+, Mystletainn / Weapon / 8
+, Seashell+ / Weapon / 8
+, Aegis / Special / 8
+, Pavise / Special / 8
+, Physic / ? / 8
+, Blarblade+ / ? / 9
+, Excalibur / Weapon / 9
+, Smoke Dagger+ / Weapon / 9
+, Drive Spd 2 / C / 9
+, Amiti / Weapon / 9
+, Rally Speed / Assist / 9
+, Recover+ / Assist / 9
+, Fensalir / Weapon / 9
+, Dark Greatsword / Weapon / 9
+, Guard Bow+ / ? / 9
+, Armorslayer+ / Weapon / 9
+, Blárraven+ / Weapon / 9
+, Rally Defense Resistance / Assist / 9
+, Leiptr / Weapon / 10
+, Divine Tyrfing / Weapon / 10
+, Audhulma / Weapon / 10
+, Rauðrowl+ / Weapon / 10
+, Siegfried / Weapon / 10
+, Candlelight / ? / 10
+, Dazzling Staff 3 / B / 10
+, Harsh Command / Assist / 10
+, Iote's Shield / A / 10
+, Smite / Assist / 10
+, Recover / ? / 11
+, Slaying Bow+ / Weapon / 11
+, Fire Boost 3 / A / 11
+, Blárowl+ / Weapon / 11
+, Fear / ? / 11
+, Blazing Durandal / Weapon / 11
+, Guidance 3 / C / 11
+, Flashing Blade 3 / A / 11
+, Water Boost 3 / A / 11
+, Urvan / Weapon / 12
+, Killing Edge+ / Weapon / 12
+, Regnal Astra / Special / 12
+, Dire Thunder / Weapon / 12
+, Silver Dagger+ / Weapon / 12
+, Atk Res Bond 3 / A / 13
+, Shield Pulse 3 / B / 13
+, Watersweep 3 / B / 13
+, Desperation 2 / ? / 13
+, R Tomebreaker 3 / B / 13
+, Defiant Def 3 / A / 13
+, Drive Atk 2 / C / 13
+, Earth Boost 3 / A / 13
+, Siegmund / Weapon / 14
+, Defense +3 / A / 14
+, Seal Atk Spd 2 / B / 14
+, Clarisse's Bow+ / Weapon / 14
+, Firesweep Sword+ / Weapon / 14
+, Killer Axe+ / Weapon / 15
+, Firesweep Bow+ / Weapon / 15
+, Live to Serve 3 / B / 15
+, Fólkvangr / Weapon / 15
+, Ragnell / Weapon / 15
+, Fortify Fliers / C / 15
+, Seal Spd 3 / B / 15
+, Resistance +3 / A / 15
+, Ruby Sword+ / Weapon / 16
+, Hauteclere / Weapon / 16
+, Gronnowl+ / Weapon / 16
+, Gradivus / Weapon / 17
+, Escutcheon / Special / 17
+, Cursed Lance / Weapon / 17
+, Dark Breath+ / Weapon / 17
+, Sapphire Lance+ / Weapon / 17
+, Kitty Paddle+ / Weapon / 17
+, Silver Lance+ / Weapon / 17
+, Spd Smoke 3 / C / 17
+, Brash Assault 3 / B / 17
+, Pain / ? / 17
+, Rogue Dagger+ / Weapon / 17
+, Rally Attack / Assist / 17
+, Steady Stance 3 / A / 18
+, Fortress Res 3 / A / 18
+, Ward Cavalry / C / 19
+, Follow-Up Ring / B / 19
+, Spd Ploy 3 / C / 19
+, Melon Crusher+ / Weapon / 19
+, Reprisal / Special / 19
+, Sacred Cowl / Special / 20
+, Vengeance / Special / 20
+, Infantry Pulse 3 / C / 20
+, Swift-Winds Balm / Special / 20
+, Rauðrraven+ / Weapon / 21
+, Spur Atk 3 / C / 21
+, Sing / Assist / 21
+, Armored Blow 3 / A / 22
+, Deft Harpoon+ / Weapon / 22
+, Imbue / ? / 22
+, Emerald Axe+ / Weapon / 22
+, Gronnraven+ / Weapon / 22
+, Kindled-Fire Balm / Special / 23
+, Sturdy Blow 2 / A / 24
+, Bold Fighter 3 / B / 24
+, Assault / ? / 24
+, Alondite / Weapon / 25
+, B Tomebreaker 3 / B / 25
+, Escape Route 3 / B / 25
+, HP +5 / A / 26
+, Heavenly Light / Special / 26
+, Poison Dagger+ / Weapon / 26
+, Vengeful Fighter 3 / B / 26
+, Blárblade+ / Weapon / 27
+, Noontime / Special / 27
+, Black Luna / Special / 28
+, Rauðrblade+ / Weapon / 29
+, Firesweep Lance+ / Weapon / 29
+, Dance / Assist / 29
+, Atk Smoke 3 / C / 29
+, Lightning Breath+ / Weapon / 30
+, Defiant Atk 3 / A / 30
+, Seal Atk 3 / B / 31
+, Berkut's Lance+ / Weapon / 31
+, Guard 3 / B / 32
+, Cancel Affinity 3 / B / 33
+, Close Def 3 / A / 33
+, Wrathful Staff 3 / B / 33
+, Sol / Special / 34
+, Falchion / Weapon / 35
+, Speed +3 / A / 35
+, Quick Riposte 2 / ? / 35
+, Miracle / Special / 35
+, Poison Strike 3 / B / 37
+, Heavy Blade 3 / A / 37
+, Fortify Cavalry / C / 38
+, Goad Cavalry / C / 38
+, Dragon Fang / Special / 39
+, Wary Fighter 3 / B / 39
+, Gronnblade+ / Weapon / 39
+, Threaten Res 3 / C / 40
+, Res Ploy 3 / C / 41
+, Windsweep 3 / B / 42
+, Bowbreaker 3 / B / 43
+, Atk Ploy 3 / C / 43
+, Axebreaker 3 / B / 43
+, Galeforce / Special / 46
+, Attack +3 / A / 47
+, Close Counter / A / 48
+, Breath of Life 3 / C / 49
+, Drag Back / B / 49
+, Fortress Def 3 / A / 49
+, Rehabilitate / ? / 49
+, Brave Bow+ / Weapon / 49
+, Goad Fliers / C / 51
+, Slaying Lance+ / Weapon / 51
+, Slaying Axe+ / Weapon / 52
+, Hone Atk 3 / C / 53
+, Brave Axe+ / Weapon / 53
+, Slaying Edge+ / Weapon / 56
+, Hone Fliers / C / 56
+, G Tomebreaker 3 / B / 57
+, Hone Spd 3 / C / 59
+, Armor March 3 / C / 61
+, Ward Armor / C / 61
+, Glimmer / Special / 62
+, Brave Lance+ / Weapon / 63
+, Wings of Mercy 3 / B / 70
+, Brave Sword+ / Weapon / 72
+, Darting Blow 3 / A / 73
+, Panic Ploy 3 / C / 75
+, Wrath 3 / B / 76
+, Wo Dao+ / Weapon / 77
+, Savage Blow 3 / C / 79
+, Hit and Run / B / 79
+, Lancebreaker 3 / B / 83
+, Distant Def 3 / A / 86
+, Glacies / Special / 88
+, Triangle Adept 3 / A / 89
+, Aether / Special / 98
+, Def Ploy 3 / C / 100
+, Draconic Aura / Special / 104
+, Hone Cavalry / C / 108
+, Steady Breath / A / 108
+, Threaten Atk 3 / C / 111
+, Threaten Spd 3 / C / 112
+, Renewal 3 / B / 118
+, Distant Counter / A / 126
+, Swift Sparrow 2 / A / 129
+, Reciprocal Aid / Assist / 149
+, Ardent Sacrifice / Assist / 153
+, Pivot / Assist / 173
+, Threaten Def 3 / C / 174
+, Vantage 3 / B / 184
+, Iceberg / Special / 187
+, Swordbreaker 3 / B / 188
+, Ignis / Special / 193
+, Life and Death 3 / A / 227
+, Desperation 3 / B / 246
+, Draw Back / Assist / 266
+, Death Blow 3 / A / 268
+, Luna / Special / 274
+, Swap / Assist / 293
+, Quick Riposte 3 / B / 298
+, Bonfire / Special / 330
+, Fury 3 / A / 414
+, Moonbow / Special / 549
+, Reposition / Assist / 806
+]
