@@ -49,13 +49,13 @@ def browse_hero_builds(hero_name):
     if USE_ONLY_CURATED:
         path = "//div[@class='curated-builds']"
     path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//a/text()"
-    for skill_name in tree.xpath(path)
+    for skill_name in tree.xpath(path):
         if skill_name in skills:
             skills[skill_name].increase_score()
         else:
             skill = Skill(skill_name, "?")
             skill.increase_score()
-            skills[skill_name] = skill()
+            skills[skill_name] = skill
 
 def init_skill_and_hero():
     page = requests.get(BASE_URL + "Skills_Table")
@@ -73,6 +73,7 @@ def main():
     get_legendary_weapons()
     for hero in heros:
         browse_hero_builds(hero.name)
+
 
 if __name__ == "__main__":
     main()

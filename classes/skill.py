@@ -9,4 +9,4 @@ class Skill:
         self.exclusive = True
 
     def increase_score(self):
-        self.score++
+        self.score+=1
