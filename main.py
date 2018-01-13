@@ -61,18 +61,6 @@ def init_skill_and_hero():
         heroes.append(hero)
         for i in range(5,11):
             hero.add_skill(get_or_create_skill(hero_line, i))
-    #print(tree.xpath("//table[@id='max-stats-table']/tr")).replace("\n","").replace("\t","")
-
-    #hero_line = tree.xpath("//table[@id='max-stats-table']/tr")[0]
-    #with open('out.txt', 'w') as f:
-    #    print(page.content, file=f)
-    #print(hero_line[0].)
-    #for elem in hero_line:
-    #    print(etree.tostring(elem, pretty_print=True))
-     # pretty_print ensures that it is nicely formatted.
-    #print(etree.tostring(hero_line, pretty_print=True))
-    #print()
-    #print(hero_line.xpath("td[2]/a/text()"))
 
 def main():
     #init_skill_and_hero()
