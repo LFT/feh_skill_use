@@ -12,4 +12,4 @@ class Skill:
         self.score+=1
 
     def __repr__(self):
-        return self.name + " / " + self.type + " / " + str(self.score)
+        return self.name + " / " + self.type + " / " + str(self.score) + "\n"

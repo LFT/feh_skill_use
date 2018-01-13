@@ -3,6 +3,7 @@ from lxml import etree
 from classes.skill import Skill
 from classes.hero import Hero
 import requests
+import operator
 
 BASE_URL="https://feheroes.gamepedia.com/"
 NAME_COL = { 5 : "Weapon",
@@ -12,7 +13,7 @@ NAME_COL = { 5 : "Weapon",
     9 : "B",
     10 : "C"
 }
-USE_ONLY_CURATED = False
+USE_ONLY_CURATED = True
 
 skills = {}
 heroes = []
@@ -78,9 +79,13 @@ def main():
     get_legendary_weapons()
     for hero in heroes:
         browse_hero_builds(hero.name)
+
     heroes.sort(key=lambda hero : hero.get_score())
     with open('out.txt', 'w') as f:
         print(heroes, file=f)
+        print("------------------------------------", file=f)
+        print(sorted(skills.values(), key=operator.attrgetter('score')), file=f)
+
 
 
 if __name__ == "__main__":
