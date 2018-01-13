@@ -7,3 +7,6 @@ class Skill:
 
     def set_exclusive(self):
         self.exclusive = True
+
+    def increase_score(self):
+        self.score++
