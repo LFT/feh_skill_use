@@ -20,7 +20,9 @@ heroes = []
 def add_exclusive_skill(page):
     tree = html.fromstring(page.content)
     for skill in tree.xpath("//div[@class='mw-category-generated']//a/text()"):
-        skills[skill].set_exclusive()
+        skill_name = skill.split("(")[0].strip()
+        if skill_name in skills:
+            skills[skill_name].set_exclusive()
 
 def get_exclusive_passives():
     page = requests.get(BASE_URL + "Category:Exclusive_Passives")
@@ -61,18 +63,24 @@ def init_skill_and_hero():
     page = requests.get(BASE_URL + "Skills_Table")
     tree = html.fromstring(page.content)
     for hero_line in tree.xpath("//table[@id='max-stats-table']/tr"):
-        hero_link = hero_line.xpath("td[1]/a/@href")[1:]
-        hero = Hero(hero_link)
-        heroes.append(hero)
-        for i in range(5,11):
-            hero.add_skill(get_or_create_skill(hero_line, i))
+        hero_link = hero_line.xpath("td[1]/a/@href")[0][1:]
+        if hero_link:
+            hero = Hero(hero_link)
+            heroes.append(hero)
+            for i in range(5,11):
+                skill = get_or_create_skill(hero_line, i)
+                if skill:
+                    hero.add_skill(skill)
 
 def main():
     init_skill_and_hero()
     get_exclusive_passives()
     get_legendary_weapons()
-    for hero in heros:
+    for hero in heroes:
         browse_hero_builds(hero.name)
+    heroes.sort(key=lambda hero : hero.get_score())
+    with open('out.txt', 'w') as f:
+        print(heroes, file=f)
 
 
 if __name__ == "__main__":
