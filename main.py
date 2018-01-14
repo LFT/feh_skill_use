@@ -13,7 +13,6 @@ NAME_COL = { 5 : "Weapon",
     9 : "B",
     10 : "C"
 }
-USE_ONLY_CURATED = False
 
 skills = {}
 heroes = []
@@ -45,20 +44,25 @@ def get_or_create_skill(hero_line, number):
         skills[skill_name] = skill
     return skill
 
-def browse_hero_builds(hero_name):
-    page = requests.get(BASE_URL + hero_name + "/Builds")
-    tree = html.fromstring(page.content)
-    path = ""
-    if USE_ONLY_CURATED:
+def get_skills(tree, is_curated):
+    if is_curated:
         path = "//div[@class='curated-builds']"
+    else :
+        path = "//div[@class='user-builds']"
     path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//a/text()"
     for skill_name in tree.xpath(path):
         if skill_name in skills:
-            skills[skill_name].increase_score()
+            skills[skill_name].increase_score(is_curated)
         else:
             skill = Skill(skill_name, "?")
-            skill.increase_score()
+            skill.increase_score(is_curated)
             skills[skill_name] = skill
+
+def browse_hero_builds(hero_name):
+    page = requests.get(BASE_URL + hero_name + "/Builds")
+    tree = html.fromstring(page.content)
+    get_skills(tree, True)
+    get_skills(tree, False)
 
 def init_skill_and_hero():
     page = requests.get(BASE_URL + "Skills_Table")
@@ -73,23 +77,27 @@ def init_skill_and_hero():
                 if skill:
                     hero.add_skill(skill)
 
+def print_file(is_curated):
+    filename = "out.txt"
+    score_type = "score"
+    if is_curated:
+        filename = "curated_" + filename
+        score_type = "curated_score"
+    with open(filename, 'w') as f:
+        heroes.sort(key=lambda hero : hero.get_score(is_curated))
+        for hero in heroes:
+            print(hero.name + " : " + str(hero.get_score(is_curated)), file=f)
+        print("------------------------------------", file=f)
+        print(sorted(skills.values(), key=operator.attrgetter(score_type)), file=f)
+
 def main():
     init_skill_and_hero()
     get_exclusive_passives()
     get_legendary_weapons()
     for hero in heroes:
         browse_hero_builds(hero.name)
-
-    heroes.sort(key=lambda hero : hero.get_score())
-    filename = "out.txt"
-    if USE_ONLY_CURATED:
-        filename = "curated_" + filename
-    with open(filename, 'w') as f:
-        print(heroes, file=f)
-        print("------------------------------------", file=f)
-        print(sorted(skills.values(), key=operator.attrgetter('score')), file=f)
-
-
+    print_file(True)
+    print_file(False)
 
 if __name__ == "__main__":
     main()
