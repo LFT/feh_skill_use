@@ -86,7 +86,7 @@ def print_file(is_curated):
     with open(filename, 'w') as f:
         heroes.sort(key=lambda hero : hero.get_score(is_curated))
         for hero in heroes:
-            print(hero.name + " : " + str(hero.get_score(is_curated)), file=f)
+            print(hero.pretty_hero_string(is_curated), file=f)
         print("------------------------------------", file=f)
         print(sorted(skills.values(), key=operator.attrgetter(score_type)), file=f)
 

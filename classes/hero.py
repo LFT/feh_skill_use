@@ -12,5 +12,17 @@ class Hero:
         else:
             return sum(skill.score for skill in self.skills)
 
+    def has_exclusive_skil(self)
+        for skill in self.skills:
+            if skill.exclusive:
+                return True
+        return False
+
+    def pretty_hero_string(self, is_curated):
+        return_string = self.name + " : " + str(self.get_score(is_curated))
+        if self.has_exclusive_skil():
+            return_string += " (Hero has exclusive skill/weapon)"
+        return return_string
+
     def __repr__(self):
-        return self.name + " / " + str(self.get_score(False)) + " / " +  str(self.get_score(True))+"\n"
+        return self.name
