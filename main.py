@@ -13,6 +13,12 @@ NAME_COL = { 5 : "Weapon",
     9 : "B",
     10 : "C"
 }
+ATTRIBUTE_ABR = {
+    "Res" : "Resistance",
+    "Def" : "Defense"
+    "Atk" : "Attack"
+    "Spd" : "Speed"
+}
 
 skills = {}
 heroes = []
@@ -46,13 +52,16 @@ def get_or_create_skill(hero_line, number):
 
 def try_finding_skill(skill_name):
     # handling the fact that some skill are not properly capitalized in the build section
-    skill_name = skill_name[:1].upper() + skill_name[1:]
-    if skill_name in skills:
-        return skills[skill_name]
-    else:
-        skill = Skill(skill_name, "?")
-        skills[skill_name] = skill
-        return skill
+    return_skill_name = skill_name[:1].upper() + skill_name[1:]
+    if not skill_name in skills:
+        if return_skill_name.replace("2", "3") in skills:
+            return_skill_name = return_skill_name.replace("2", "3")
+        elif return_skill_name + "+" in skills:
+            return_skill_name += "+"
+        else:
+            skill = Skill(return_skill_name, "?")
+            skills[return_skill_name] = skill
+    return skills[return_skill_name]
 
 def get_skills(tree, is_curated):
     if is_curated:

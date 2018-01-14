@@ -12,7 +12,7 @@ class Hero:
         else:
             return sum(skill.score for skill in self.skills)
 
-    def has_exclusive_skil(self)
+    def has_exclusive_skil(self):
         for skill in self.skills:
             if skill.exclusive:
                 return True
