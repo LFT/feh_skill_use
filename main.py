@@ -44,6 +44,16 @@ def get_or_create_skill(hero_line, number):
         skills[skill_name] = skill
     return skill
 
+def try_finding_skill(skill_name):
+    # handling the fact that some skill are not properly capitalized in the build section
+    skill_name = skill_name.capitalize()
+    if skill_name in skills:
+        return skills[skill_name]
+    else:
+        skill = Skill(skill_name, "?")
+        skills[skill_name] = skill
+        return skill
+
 def get_skills(tree, is_curated):
     if is_curated:
         path = "//div[@class='curated-builds']"
@@ -51,12 +61,7 @@ def get_skills(tree, is_curated):
         path = "//div[@class='user-builds']"
     path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//a/text()"
     for skill_name in tree.xpath(path):
-        if skill_name in skills:
-            skills[skill_name].increase_score(is_curated)
-        else:
-            skill = Skill(skill_name, "?")
-            skill.increase_score(is_curated)
-            skills[skill_name] = skill
+        try_finding_skill(skill_name).increase_score(is_curated)
 
 def browse_hero_builds(hero_name):
     page = requests.get(BASE_URL + hero_name + "/Builds")
