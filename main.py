@@ -46,7 +46,7 @@ def get_or_create_skill(hero_line, number):
 
 def try_finding_skill(skill_name):
     # handling the fact that some skill are not properly capitalized in the build section
-    skill_name = skill_name.capitalize()
+    skill_name = skill_name[:1].upper() + skill_name[1:]
     if skill_name in skills:
         return skills[skill_name]
     else:
