@@ -1,357 +1,344 @@
-[Axe Experience 3 / C / score : 0 / curated score: 0
-, G Tome Valor 3 / C / score : 0 / curated score: 0
-, Flametongue+ / Weapon / score : 0 / curated score: 0
-, Blazing Thunder / Special / score : 0 / curated score: 0
-, B Tome Exp. 3 / C / score : 0 / curated score: 0
-, HP Spd 2 / A / score : 0 / curated score: 0
-, R Tome Valor 3 / C / score : 0 / curated score: 0
-, Bow Exp. 3 / C / score : 0 / curated score: 0
-, Sword Exp. 3 / C / score : 0 / curated score: 0
-, Pass 3 / B / score : 0 / curated score: 0
-, Axe Valor 3 / C / score : 0 / curated score: 0
-, Live for Bounty / B / score : 0 / curated score: 0
-, Lance Valor 3 / C / score : 0 / curated score: 0
-, Knock Back / B / score : 0 / curated score: 0
-, B Tome Valor 3 / C / score : 0 / curated score: 0
-, Rally Attack Resistance / Assist / score : 0 / curated score: 0
-, Dagger Valor 3 / C / score : 0 / curated score: 0
-, Live for Honor / B / score : 0 / curated score: 0
+[Live for Honor / B / score : 0 / curated score: 0
 , HP Res 2 / A / score : 0 / curated score: 0
+, B Tome Exp. 3 / C / score : 0 / curated score: 0
+, Axe Experience 3 / C / score : 0 / curated score: 0
+, R Tome Valor 3 / C / score : 0 / curated score: 0
+, Lance Valor 3 / C / score : 0 / curated score: 0
+, B Tome Valor 3 / C / score : 0 / curated score: 0
+, Bow Exp. 3 / C / score : 0 / curated score: 0
+, Pass 3 / B / score : 0 / curated score: 0
+, G Tome Valor 3 / C / score : 0 / curated score: 0
+, Blazing Thunder / Special / score : 0 / curated score: 0
+, Dagger Valor 3 / C / score : 0 / curated score: 0
+, Rally Attack Resistance / Assist / score : 0 / curated score: 0
+, Knock Back / B / score : 0 / curated score: 0
+, Axe Valor 3 / C / score : 0 / curated score: 0
+, Sword Exp. 3 / C / score : 0 / curated score: 0
+, HP Spd 2 / A / score : 0 / curated score: 0
+, Flametongue+ / Weapon / score : 0 / curated score: 0
+, Live for Bounty / B / score : 0 / curated score: 0
 , Bracing Blow 2 / A / score : 0 / curated score: 0
-, Wrath / ? / score : 1 / curated score: 1
-, Still-Water Balm / Special / score : 1 / curated score: 0
-, Wings of Mercy / ? / score : 1 / curated score: 0
-, Defiant Res 3 / A / score : 1 / curated score: 0
-, Sword Breaker 3 / ? / score : 1 / curated score: 0
-, Flexible / ? / score : 1 / curated score: 0
-, Guidance / ? / score : 1 / curated score: 0
-, Rally / ? / score : 1 / curated score: 0
-, Swift Strike 2 / A / score : 1 / curated score: 0
-, Swift Sparrow / ? / score : 1 / curated score: 0
-, Dancer's Fan+ / Weapon / score : 1 / curated score: 0
-, Solid-Earth Balm / Special / score : 1 / curated score: 0
-, Sturdy Blow 3 / ? / score : 1 / curated score: 0
-, Rally Speed Resistance / Assist / score : 1 / curated score: 0
-, Attack Res +2 / ? / score : 1 / curated score: 1
-, Swift Sparrow 3 / ? / score : 1 / curated score: 0
-, Slaying Hammer+ / ? / score : 1 / curated score: 0
-, Rally Atk/Spd / ? / score : 1 / curated score: 0
-, Heavy Spear+ / Weapon / score : 1 / curated score: 0
-, Panic Ploy / ? / score : 1 / curated score: 0
-, Fortify Dragons / C / score : 1 / curated score: 0
-, Steady Stance / ? / score : 1 / curated score: 0
-, Deflect Magic 3 / ? / score : 1 / curated score: 0
-, Earth Dance 3 / B / score : 1 / curated score: 0
-, Obstruct 3 / B / score : 1 / curated score: 0
-, Sealife Tome+ / Weapon / score : 1 / curated score: 0
-, Blárwolf+ / Weapon / score : 1 / curated score: 0
-, Spur spd 3 / ? / score : 1 / curated score: 0
-, Growing Thunder / Special / score : 1 / curated score: 0
-, Dark Aura / Weapon / score : 1 / curated score: 1
-, Hibiscus Tome+ / Weapon / score : 1 / curated score: 0
-, New Moon / ? / score : 1 / curated score: 0
-, Death Blow / ? / score : 1 / curated score: 0
-, Brash Assault / ? / score : 1 / curated score: 0
-, Shine+ / Weapon / score : 1 / curated score: 1
-, Defense 3 / ? / score : 1 / curated score: 0
-, Blue Tomebreaker 3 / ? / score : 1 / curated score: 0
-, Atk Tactic 3 / C / score : 1 / curated score: 1
-, Atk/Res Bond 3 / ? / score : 1 / curated score: 0
-, Attack Def +2 / A / score : 1 / curated score: 0
 , Blizzard / Weapon / score : 1 / curated score: 1
-, Grani's Shield / A / score : 1 / curated score: 0
-, Flier Formation 3 / B / score : 1 / curated score: 0
-, Growing Light / Special / score : 1 / curated score: 0
-, Sword Valor 3 / C / score : 1 / curated score: 0
-, Attack 3 / ? / score : 1 / curated score: 0
-, Chilling Wind / ? / score : 1 / curated score: 0
-, Savage Blow / ? / score : 1 / curated score: 0
+, Defiant Res 3 / A / score : 1 / curated score: 0
 , Daggerbreaker 3 / B / score : 1 / curated score: 0
-, Rally Attack Defense / Assist / score : 2 / curated score: 0
-, Blazing Flame / Special / score : 2 / curated score: 0
-, Blazing Wind / Special / score : 2 / curated score: 0
+, Attack Def +2 / A / score : 1 / curated score: 0
+, Spur spd 3 / ? / score : 1 / curated score: 0
+, Flier Formation 3 / B / score : 1 / curated score: 0
+, Atk Tactic 3 / C / score : 1 / curated score: 1
+, Sealife Tome+ / Weapon / score : 1 / curated score: 0
+, Grani's Shield / A / score : 1 / curated score: 0
+, Wrath / ? / score : 1 / curated score: 1
+, Flexible / ? / score : 1 / curated score: 0
+, Panic Ploy / ? / score : 1 / curated score: 0
+, Still-Water Balm / Special / score : 1 / curated score: 0
+, Savage Blow / ? / score : 1 / curated score: 0
+, Fortify Dragons / C / score : 1 / curated score: 0
+, Attack 3 / ? / score : 1 / curated score: 0
+, Swift Strike 2 / A / score : 1 / curated score: 0
+, Defense 3 / ? / score : 1 / curated score: 0
+, Earth Dance 3 / B / score : 1 / curated score: 0
+, Guidance / ? / score : 1 / curated score: 0
+, Growing Light / Special / score : 1 / curated score: 0
+, Rally Speed Resistance / Assist / score : 1 / curated score: 0
+, New Moon / ? / score : 1 / curated score: 0
+, Growing Thunder / Special / score : 1 / curated score: 0
+, Swift Sparrow / ? / score : 1 / curated score: 0
+, Rally Atk/Spd / ? / score : 1 / curated score: 0
+, Atk/Res Bond 3 / ? / score : 1 / curated score: 0
+, Killer Axe / ? / score : 1 / curated score: 0
+, Obstruct 3 / B / score : 1 / curated score: 0
+, Shine+ / Weapon / score : 1 / curated score: 1
+, Killing Edge / ? / score : 1 / curated score: 0
+, Sword Valor 3 / C / score : 1 / curated score: 0
+, Death Blow / ? / score : 1 / curated score: 0
+, Sturdy Blow 3 / ? / score : 1 / curated score: 0
+, Chilling Wind / ? / score : 1 / curated score: 0
+, Wings of Mercy / ? / score : 1 / curated score: 0
+, Blue Tomebreaker 3 / ? / score : 1 / curated score: 0
+, Deflect Magic 3 / ? / score : 1 / curated score: 0
+, Steady Stance / ? / score : 1 / curated score: 0
+, Solid-Earth Balm / Special / score : 1 / curated score: 0
+, Hibiscus Tome+ / Weapon / score : 1 / curated score: 0
+, Attack Res +2 / ? / score : 1 / curated score: 1
+, Brash Assault / ? / score : 1 / curated score: 0
+, Swift Sparrow 3 / ? / score : 1 / curated score: 0
+, Dancer's Fan+ / Weapon / score : 1 / curated score: 0
+, Rally / ? / score : 1 / curated score: 0
+, Sword Breaker 3 / ? / score : 1 / curated score: 0
 , Lunge / B / score : 2 / curated score: 1
-, Warp Powder / B / score : 2 / curated score: 1
-, Assassin's Bow+ / Weapon / score : 2 / curated score: 1
-, Green Egg+ / Weapon / score : 2 / curated score: 0
-, Blaze Dance 3 / B / score : 2 / curated score: 0
-, Blue Egg+ / Weapon / score : 2 / curated score: 0
-, Rauðrwolf+ / Weapon / score : 2 / curated score: 0
-, Kadomatsu+ / Weapon / score : 2 / curated score: 1
-, Desperation / ? / score : 2 / curated score: 2
-, Armorsmasher+ / ? / score : 2 / curated score: 0
 , Reconcile / ? / score : 2 / curated score: 0
-, Firesweep S+ / ? / score : 2 / curated score: 0
 , Hama Ya+ / Weapon / score : 2 / curated score: 0
+, Kadomatsu+ / Weapon / score : 2 / curated score: 1
+, Blaze Dance 3 / B / score : 2 / curated score: 0
+, Blazing Wind / Special / score : 2 / curated score: 0
+, Blessed Bouquet+ / Weapon / score : 2 / curated score: 1
+, Blue Egg+ / Weapon / score : 2 / curated score: 0
+, Dancer's Ring+ / Weapon / score : 2 / curated score: 0
+, Drive Res 2 / C / score : 2 / curated score: 0
+, Keen Rauðrwolf+ / Weapon / score : 2 / curated score: 0
+, Chilling Seal / B / score : 2 / curated score: 2
+, Desperation / ? / score : 2 / curated score: 2
+, Warp Powder / B / score : 2 / curated score: 1
+, Steady Blow 2 / A / score : 2 / curated score: 0
 , Spd Def Bond 3 / A / score : 2 / curated score: 0
 , Firesweep L+ / ? / score : 2 / curated score: 0
-, Keen Blárwolf+ / ? / score : 2 / curated score: 0
-, Steady Blow 2 / A / score : 2 / curated score: 0
-, Killer Bow+ / Weapon / score : 2 / curated score: 0
-, Drive Res 2 / C / score : 2 / curated score: 0
-, Blessed Bouquet+ / Weapon / score : 2 / curated score: 1
-, Dancer's Ring+ / Weapon / score : 2 / curated score: 0
+, Rally Attack Defense / Assist / score : 2 / curated score: 0
+, Firesweep S+ / ? / score : 2 / curated score: 0
 , Rexcalibur+ / Weapon / score : 2 / curated score: 0
-, Chilling Seal / B / score : 2 / curated score: 2
-, Blazing Light / Special / score : 3 / curated score: 0
-, Durandal / Weapon / score : 3 / curated score: 2
-, Fenrir+ / Weapon / score : 3 / curated score: 0
-, Binding Blade / Weapon / score : 3 / curated score: 3
-, Svalinn Shield / A / score : 3 / curated score: 0
-, Fujin Yumi / Weapon / score : 3 / curated score: 1
-, Rally Resistance / Assist / score : 3 / curated score: 1
+, Blazing Flame / Special / score : 2 / curated score: 0
+, Green Egg+ / Weapon / score : 2 / curated score: 0
 , Bolganone+ / Weapon / score : 3 / curated score: 1
-, Keen Gronnwolf+ / Weapon / score : 3 / curated score: 0
-, Beorc's Blessing / B / score : 3 / curated score: 2
-, Spectral Tome+ / Weapon / score : 3 / curated score: 1
-, HP Def 2 / A / score : 3 / curated score: 0
-, Gronnwolf+ / Weapon / score : 3 / curated score: 1
-, Spd Def 2 / A / score : 3 / curated score: 1
-, Attack Res 2 / A / score : 3 / curated score: 1
-, Slaying Spear+ / ? / score : 3 / curated score: 0
-, Infantry Pulse / ? / score : 3 / curated score: 2
-, First Bite+ / Weapon / score : 3 / curated score: 0
+, Binding Blade / Weapon / score : 3 / curated score: 3
 , Spur Atk Spd 2 / C / score : 3 / curated score: 1
-, Tomato Tome+ / Weapon / score : 4 / curated score: 0
-, Ward Fliers / C / score : 4 / curated score: 0
-, Regal Blade / Weapon / score : 4 / curated score: 2
-, Lilith Floatie+ / Weapon / score : 4 / curated score: 0
-, Drive Def 2 / C / score : 4 / curated score: 1
-, Mend / ? / score : 4 / curated score: 0
-, Hammer+ / Weapon / score : 4 / curated score: 0
-, Sieglinde / Weapon / score : 4 / curated score: 2
-, Bright Naginata / Weapon / score : 4 / curated score: 0
-, Tannenboom!+ / Weapon / score : 4 / curated score: 2
-, Carrot Axe+ / Weapon / score : 4 / curated score: 1
-, Urðr / Weapon / score : 4 / curated score: 1
-, Recover Ring / B / score : 4 / curated score: 2
-, Cupid Arrow+ / Weapon / score : 4 / curated score: 1
-, Peshkatz / Weapon / score : 4 / curated score: 2
-, Def Tactic 3 / C / score : 4 / curated score: 0
+, Attack Res 2 / A / score : 3 / curated score: 1
+, Spd Def 2 / A / score : 3 / curated score: 1
+, HP Def 2 / A / score : 3 / curated score: 0
+, Fujin Yumi / Weapon / score : 3 / curated score: 1
+, Keen Blárwolf+ / Weapon / score : 3 / curated score: 0
+, First Bite+ / Weapon / score : 3 / curated score: 0
+, Svalinn Shield / A / score : 3 / curated score: 0
+, Infantry Pulse / ? / score : 3 / curated score: 2
+, Blazing Light / Special / score : 3 / curated score: 0
+, Beorc's Blessing / B / score : 3 / curated score: 2
+, Fenrir+ / Weapon / score : 3 / curated score: 0
+, Spectral Tome+ / Weapon / score : 3 / curated score: 1
+, Rally Resistance / Assist / score : 3 / curated score: 1
 , Silver Bow+ / Weapon / score : 4 / curated score: 2
-, Seal Atk Def 2 / B / score : 5 / curated score: 0
-, Brynhildr / Weapon / score : 5 / curated score: 1
+, Sieglinde / Weapon / score : 4 / curated score: 2
+, Recover Ring / B / score : 4 / curated score: 2
+, Slaying Spear+ / Weapon / score : 4 / curated score: 0
+, Bright Naginata / Weapon / score : 4 / curated score: 0
+, Mend / ? / score : 4 / curated score: 0
+, Drive Def 2 / C / score : 4 / curated score: 1
+, Tomato Tome+ / Weapon / score : 4 / curated score: 0
+, Urðr / Weapon / score : 4 / curated score: 1
+, Regal Blade / Weapon / score : 4 / curated score: 2
+, Peshkatz / Weapon / score : 4 / curated score: 2
+, Ward Fliers / C / score : 4 / curated score: 0
+, Lilith Floatie+ / Weapon / score : 4 / curated score: 0
+, Def Tactic 3 / C / score : 4 / curated score: 0
+, Tannenboom!+ / Weapon / score : 4 / curated score: 2
+, Cupid Arrow+ / Weapon / score : 4 / curated score: 1
+, Carrot Axe+ / Weapon / score : 4 / curated score: 1
 , Spur Def 3 / C / score : 5 / curated score: 0
-, Mulagir / Weapon / score : 5 / curated score: 2
-, Tyrfing / Weapon / score : 5 / curated score: 1
-, Dancer's Score+ / Weapon / score : 5 / curated score: 0
-, Seal Res 3 / B / score : 5 / curated score: 0
-, Geyser Dance 2 / B / score : 5 / curated score: 0
-, Growing Flame / Special / score : 5 / curated score: 0
 , Nidhogg / Weapon / score : 5 / curated score: 2
-, Silver Axe+ / Weapon / score : 5 / curated score: 0
-, Wind Boost 3 / A / score : 5 / curated score: 0
-, Sacae's Blessing / B / score : 5 / curated score: 2
-, Parthia / Weapon / score : 5 / curated score: 1
-, Ice Mirror / Special / score : 5 / curated score: 0
-, Goad Armor / C / score : 5 / curated score: 1
-, Monstrous Bow+ / Weapon / score : 5 / curated score: 1
-, Gale Dance 3 / B / score : 5 / curated score: 0
-, Spur Spd Def 2 / C / score : 5 / curated score: 1
-, Cymbeline / Weapon / score : 5 / curated score: 1
-, Eckesachs / Weapon / score : 5 / curated score: 2
-, Warding Stance 3 / A / score : 5 / curated score: 1
 , Spur Res 3 / C / score : 5 / curated score: 2
+, Goad Armor / C / score : 5 / curated score: 1
+, Silver Axe+ / Weapon / score : 5 / curated score: 0
+, Monstrous Bow+ / Weapon / score : 5 / curated score: 1
+, Slaying Hammer+ / Weapon / score : 5 / curated score: 0
+, Sacae's Blessing / B / score : 5 / curated score: 2
+, Growing Flame / Special / score : 5 / curated score: 0
 , Grimoire / Weapon / score : 5 / curated score: 1
+, Geyser Dance 2 / B / score : 5 / curated score: 0
+, Parthia / Weapon / score : 5 / curated score: 1
+, Eckesachs / Weapon / score : 5 / curated score: 2
 , Sacrifice / Assist / score : 5 / curated score: 1
-, Candelabra+ / Weapon / score : 6 / curated score: 4
-, Divine Naga / Weapon / score : 6 / curated score: 1
-, Ayra's Blade / Weapon / score : 6 / curated score: 1
-, Refreshing Bolt+ / Weapon / score : 6 / curated score: 1
+, Dancer's Score+ / Weapon / score : 5 / curated score: 0
+, Seal Atk Def 2 / B / score : 5 / curated score: 0
+, Spur Spd Def 2 / C / score : 5 / curated score: 1
+, Mulagir / Weapon / score : 5 / curated score: 2
+, Ice Mirror / Special / score : 5 / curated score: 0
+, Wind Boost 3 / A / score : 5 / curated score: 0
+, Cymbeline / Weapon / score : 5 / curated score: 1
+, Brynhildr / Weapon / score : 5 / curated score: 1
+, Seal Res 3 / B / score : 5 / curated score: 0
+, Warding Stance 3 / A / score : 5 / curated score: 1
+, Gale Dance 3 / B / score : 5 / curated score: 0
 , Zanbato+ / Weapon / score : 6 / curated score: 1
-, Valflame / Weapon / score : 6 / curated score: 2
-, Aura / Weapon / score : 6 / curated score: 1
-, Dark Excalibur / Weapon / score : 6 / curated score: 1
-, Light Breath+ / Weapon / score : 6 / curated score: 1
-, Fierce Stance 3 / A / score : 6 / curated score: 2
-, Atk Spd 2 / A / score : 6 / curated score: 5
-, Shove / Assist / score : 6 / curated score: 1
-, Crusader's Ward / B / score : 6 / curated score: 2
-, Thani / Weapon / score : 6 / curated score: 2
-, Fortify Armor / C / score : 6 / curated score: 1
-, Raijinto / Weapon / score : 6 / curated score: 2
-, Ragnarok / Weapon / score : 6 / curated score: 2
 , Sack o' Gifts+ / Weapon / score : 6 / curated score: 3
 , Ward Armor 3 / ? / score : 6 / curated score: 4
-, Weirding Tome / Weapon / score : 6 / curated score: 1
+, Refreshing Bolt+ / Weapon / score : 6 / curated score: 1
+, Candelabra+ / Weapon / score : 6 / curated score: 4
 , Hagoita+ / Weapon / score : 6 / curated score: 2
-, Warding Blow 3 / A / score : 7 / curated score: 0
-, Armads / Weapon / score : 7 / curated score: 2
-, Sol Katti / Weapon / score : 7 / curated score: 3
-, Hone Armor / C / score : 7 / curated score: 1
-, Vidofnir / Weapon / score : 7 / curated score: 2
-, Dazzling Staff 3 / B / score : 7 / curated score: 2
+, Ragnarok / Weapon / score : 6 / curated score: 2
+, Keen Gronnwolf+ / Weapon / score : 6 / curated score: 1
+, Thani / Weapon / score : 6 / curated score: 2
+, Fortify Armor / C / score : 6 / curated score: 1
+, Fierce Stance 3 / A / score : 6 / curated score: 2
+, Crusader's Ward / B / score : 6 / curated score: 2
+, Weirding Tome / Weapon / score : 6 / curated score: 1
+, Light Breath+ / Weapon / score : 6 / curated score: 1
+, Raijinto / Weapon / score : 6 / curated score: 2
+, Atk Spd 2 / A / score : 6 / curated score: 5
+, Shove / Assist / score : 6 / curated score: 1
+, Ayra's Blade / Weapon / score : 6 / curated score: 1
+, Valflame / Weapon / score : 6 / curated score: 2
+, Spur Def Res 2 / C / score : 7 / curated score: 2
+, Dark Aura / Weapon / score : 7 / curated score: 2
 , Resolute Blade / Weapon / score : 7 / curated score: 2
-, Silver Sword+ / Weapon / score : 7 / curated score: 1
-, Nóatún / Weapon / score : 7 / curated score: 3
-, Geirskögul / Weapon / score : 7 / curated score: 4
+, Warding Blow 3 / A / score : 7 / curated score: 0
+, Hone Armor / C / score : 7 / curated score: 1
 , Spd Res 2 / A / score : 7 / curated score: 7
-, Naga / Weapon / score : 7 / curated score: 1
+, Armads / Weapon / score : 7 / curated score: 2
+, Dazzling Staff 3 / B / score : 7 / curated score: 2
+, Sol Katti / Weapon / score : 7 / curated score: 3
+, Nóatún / Weapon / score : 7 / curated score: 3
+, Rally Speed Defense / Assist / score : 7 / curated score: 1
+, Geirskögul / Weapon / score : 7 / curated score: 4
 , Yato / Weapon / score : 7 / curated score: 2
 , Rally Defense / Assist / score : 7 / curated score: 2
-, Spur Def Res 2 / C / score : 7 / curated score: 2
-, Rally Speed Defense / Assist / score : 7 / curated score: 1
 , Spur Spd 3 / C / score : 7 / curated score: 0
 , Atk Def Bond 3 / A / score : 7 / curated score: 1
-, Growing Wind / Special / score : 8 / curated score: 0
-, Mirror Strike 2 / A / score : 8 / curated score: 1
-, Kagami Mochi+ / Weapon / score : 8 / curated score: 1
-, Brazen Atk Spd 3 / A / score : 8 / curated score: 2
-, Aegis / Special / score : 8 / curated score: 1
-, Legion's Axe+ / Weapon / score : 8 / curated score: 1
-, Fortify Def 3 / C / score : 8 / curated score: 1
-, Pavise / Special / score : 8 / curated score: 1
-, Handbell+ / Weapon / score : 8 / curated score: 5
+, Vidofnir / Weapon / score : 7 / curated score: 2
+, Silver Sword+ / Weapon / score : 7 / curated score: 1
 , Ridersbane+ / Weapon / score : 8 / curated score: 2
-, Stout Tomahawk / Weapon / score : 8 / curated score: 2
-, Seashell+ / Weapon / score : 8 / curated score: 1
-, Deathly Dagger / Weapon / score : 8 / curated score: 0
-, Killer Lance+ / Weapon / score : 8 / curated score: 2
-, Gravity+ / Weapon / score : 8 / curated score: 5
-, Carrot Lance+ / Weapon / score : 8 / curated score: 0
-, Mystletainn / Weapon / score : 8 / curated score: 3
-, Astra / Special / score : 8 / curated score: 0
+, Handbell+ / Weapon / score : 8 / curated score: 5
+, Aegis / Special / score : 8 / curated score: 1
 , Seal Def 3 / B / score : 8 / curated score: 0
+, Astra / Special / score : 8 / curated score: 0
 , Defiant Spd 3 / A / score : 8 / curated score: 0
-, Excalibur / Weapon / score : 9 / curated score: 2
-, Rally Attack Speed / Assist / score : 9 / curated score: 4
-, Fensalir / Weapon / score : 9 / curated score: 2
+, Kagami Mochi+ / Weapon / score : 8 / curated score: 1
+, Legion's Axe+ / Weapon / score : 8 / curated score: 1
+, Seashell+ / Weapon / score : 8 / curated score: 1
+, Carrot Lance+ / Weapon / score : 8 / curated score: 0
+, Growing Wind / Special / score : 8 / curated score: 0
+, Gravity+ / Weapon / score : 8 / curated score: 5
+, Mirror Strike 2 / A / score : 8 / curated score: 1
+, Pavise / Special / score : 8 / curated score: 1
+, Fortify Def 3 / C / score : 8 / curated score: 1
+, Deathly Dagger / Weapon / score : 8 / curated score: 0
+, Mystletainn / Weapon / score : 8 / curated score: 3
+, Brazen Atk Spd 3 / A / score : 8 / curated score: 2
+, Stout Tomahawk / Weapon / score : 8 / curated score: 2
 , Dark Greatsword / Weapon / score : 9 / curated score: 3
-, Armorslayer+ / Weapon / score : 9 / curated score: 2
-, Fortify Res 3 / C / score : 9 / curated score: 1
-, Amiti / Weapon / score : 9 / curated score: 4
 , Smoke Dagger+ / Weapon / score : 9 / curated score: 0
-, Slow+ / Weapon / score : 9 / curated score: 2
+, Amiti / Weapon / score : 9 / curated score: 4
+, Fortify Res 3 / C / score : 9 / curated score: 1
 , Panic+ / Weapon / score : 9 / curated score: 2
+, Slow+ / Weapon / score : 9 / curated score: 2
+, Fensalir / Weapon / score : 9 / curated score: 2
+, Rally Attack Speed / Assist / score : 9 / curated score: 4
 , Drive Spd 2 / C / score : 9 / curated score: 3
-, Leiptr / Weapon / score : 10 / curated score: 0
+, Harsh Command / Assist / score : 10 / curated score: 0
+, Iote's Shield / A / score : 10 / curated score: 1
 , Audhulma / Weapon / score : 10 / curated score: 2
 , Absorb+ / Weapon / score : 10 / curated score: 3
-, Iote's Shield / A / score : 10 / curated score: 1
-, Smite / Assist / score : 10 / curated score: 0
+, Leiptr / Weapon / score : 10 / curated score: 0
 , Brazen Atk Def 3 / A / score : 10 / curated score: 3
-, Divine Tyrfing / Weapon / score : 10 / curated score: 2
+, Smite / Assist / score : 10 / curated score: 0
 , Siegfried / Weapon / score : 10 / curated score: 3
-, Guard Bow+ / ? / score : 10 / curated score: 3
-, Harsh Command / Assist / score : 10 / curated score: 0
-, Blárraven+ / Weapon / score : 11 / curated score: 4
-, Blazing Durandal / Weapon / score : 11 / curated score: 3
 , Flashing Blade 3 / A / score : 11 / curated score: 2
-, Slaying Bow+ / Weapon / score : 11 / curated score: 3
-, Fire Boost 3 / A / score : 11 / curated score: 0
 , Guidance 3 / C / score : 11 / curated score: 3
+, Armorsmasher+ / Weapon / score : 11 / curated score: 2
+, Blárraven+ / Weapon / score : 11 / curated score: 4
 , Rally Speed / Assist / score : 11 / curated score: 1
-, Urvan / Weapon / score : 12 / curated score: 4
-, Water Boost 3 / A / score : 12 / curated score: 0
+, Fire Boost 3 / A / score : 11 / curated score: 0
 , Rauðrowl+ / Weapon / score : 12 / curated score: 6
 , Dire Thunder / Weapon / score : 12 / curated score: 4
+, Urvan / Weapon / score : 12 / curated score: 4
+, Guard Bow+ / Weapon / score : 12 / curated score: 4
 , Regnal Astra / Special / score : 12 / curated score: 4
-, Killing Edge+ / Weapon / score : 13 / curated score: 1
-, R Tomebreaker 3 / B / score : 13 / curated score: 5
-, Defiant Def 3 / A / score : 13 / curated score: 0
-, Defense +3 / A / score : 13 / curated score: 2
+, Water Boost 3 / A / score : 12 / curated score: 0
 , Rally Defense Resistance / Assist / score : 13 / curated score: 2
-, Silver Dagger+ / Weapon / score : 13 / curated score: 0
-, Atk Res Bond 3 / A / score : 13 / curated score: 3
 , Shield Pulse 3 / B / score : 13 / curated score: 1
+, Atk Res Bond 3 / A / score : 13 / curated score: 3
+, Defiant Def 3 / A / score : 13 / curated score: 0
+, R Tomebreaker 3 / B / score : 13 / curated score: 5
+, Divine Naga / Weapon / score : 13 / curated score: 2
 , Watersweep 3 / B / score : 13 / curated score: 1
-, Drive Atk 2 / C / score : 14 / curated score: 2
-, Siegmund / Weapon / score : 14 / curated score: 3
-, Firesweep Sword+ / Weapon / score : 14 / curated score: 4
-, Blárowl+ / Weapon / score : 14 / curated score: 4
-, Earth Boost 3 / A / score : 14 / curated score: 1
+, Silver Dagger+ / Weapon / score : 13 / curated score: 0
+, Slaying Bow+ / Weapon / score : 13 / curated score: 3
+, Defense +3 / A / score : 13 / curated score: 2
 , Seal Atk Spd 2 / B / score : 14 / curated score: 0
 , Clarisse's Bow+ / Weapon / score : 14 / curated score: 1
-, Resistance +3 / A / score : 15 / curated score: 1
-, Fortify Fliers / C / score : 15 / curated score: 2
+, Blazing Durandal / Weapon / score : 14 / curated score: 5
+, Siegmund / Weapon / score : 14 / curated score: 3
+, Drive Atk 2 / C / score : 14 / curated score: 2
+, Earth Boost 3 / A / score : 14 / curated score: 1
+, Blárowl+ / Weapon / score : 14 / curated score: 4
+, Firesweep Sword+ / Weapon / score : 14 / curated score: 4
 , Seal Spd 3 / B / score : 15 / curated score: 0
-, Killer Axe+ / Weapon / score : 15 / curated score: 3
-, Fólkvangr / Weapon / score : 15 / curated score: 4
+, Fortify Fliers / C / score : 15 / curated score: 2
 , Ragnell / Weapon / score : 15 / curated score: 3
-, Fear+ / Weapon / score : 16 / curated score: 3
+, Resistance +3 / A / score : 15 / curated score: 1
+, Dark Excalibur / Weapon / score : 15 / curated score: 3
+, Fólkvangr / Weapon / score : 15 / curated score: 4
+, Divine Tyrfing / Weapon / score : 15 / curated score: 3
 , Hauteclere / Weapon / score : 16 / curated score: 4
 , Kindled-Fire Balm / Special / score : 16 / curated score: 0
+, Fear+ / Weapon / score : 16 / curated score: 3
 , Gronnowl+ / Weapon / score : 16 / curated score: 0
 , Sapphire Lance+ / Weapon / score : 16 / curated score: 5
 , Firesweep Bow+ / Weapon / score : 16 / curated score: 5
-, Kitty Paddle+ / Weapon / score : 17 / curated score: 7
+, Rogue Dagger+ / Weapon / score : 17 / curated score: 0
+, Cursed Lance / Weapon / score : 17 / curated score: 2
+, Escutcheon / Special / score : 17 / curated score: 0
 , Silver Lance+ / Weapon / score : 17 / curated score: 2
 , Spd Smoke 3 / C / score : 17 / curated score: 1
+, Ruby Sword+ / Weapon / score : 17 / curated score: 7
 , Swift-Winds Balm / Special / score : 17 / curated score: 0
-, Rogue Dagger+ / Weapon / score : 17 / curated score: 0
+, Kitty Paddle+ / Weapon / score : 17 / curated score: 7
 , Brash Assault 3 / B / score : 17 / curated score: 1
 , Gradivus / Weapon / score : 17 / curated score: 1
-, Escutcheon / Special / score : 17 / curated score: 0
-, Ruby Sword+ / Weapon / score : 17 / curated score: 7
-, Cursed Lance / Weapon / score : 17 / curated score: 2
+, Dark Breath+ / Weapon / score : 18 / curated score: 3
 , Assault / ? / score : 18 / curated score: 0
 , Steady Stance 3 / A / score : 18 / curated score: 2
-, Dark Breath+ / Weapon / score : 18 / curated score: 3
 , Fortress Res 3 / A / score : 18 / curated score: 1
-, Reprisal / Special / score : 19 / curated score: 1
-, Follow-Up Ring / B / score : 19 / curated score: 3
-, Candlelight+ / Weapon / score : 19 / curated score: 14
 , Rally Attack / Assist / score : 19 / curated score: 0
 , Spd Ploy 3 / C / score : 19 / curated score: 2
-, Melon Crusher+ / Weapon / score : 20 / curated score: 9
+, Follow-Up Ring / B / score : 19 / curated score: 3
+, Candlelight+ / Weapon / score : 19 / curated score: 14
+, Reprisal / Special / score : 19 / curated score: 1
 , Vengeance / Special / score : 20 / curated score: 0
-, Pain+ / Weapon / score : 20 / curated score: 4
-, Sacred Cowl / Special / score : 20 / curated score: 0
 , Heavenly Light / Special / score : 20 / curated score: 0
 , Ward Cavalry / C / score : 20 / curated score: 5
-, Infantry Pulse 3 / C / score : 21 / curated score: 2
+, Melon Crusher+ / Weapon / score : 20 / curated score: 9
+, Pain+ / Weapon / score : 20 / curated score: 4
+, Sacred Cowl / Special / score : 20 / curated score: 0
 , Spur Atk 3 / C / score : 21 / curated score: 3
-, Armored Blow 3 / A / score : 22 / curated score: 0
+, Infantry Pulse 3 / C / score : 21 / curated score: 2
 , Martyr+ / Assist / score : 22 / curated score: 14
-, Gronnraven+ / Weapon / score : 24 / curated score: 8
+, Armored Blow 3 / A / score : 22 / curated score: 0
 , Emerald Axe+ / Weapon / score : 24 / curated score: 12
-, Rauðrraven+ / Weapon / score : 25 / curated score: 12
-, Escape Route 3 / B / score : 25 / curated score: 1
+, Gronnraven+ / Weapon / score : 24 / curated score: 8
+, B Tomebreaker 3 / B / score : 25 / curated score: 8
 , Alondite / Weapon / score : 25 / curated score: 6
 , Deft Harpoon+ / Weapon / score : 25 / curated score: 15
-, B Tomebreaker 3 / B / score : 25 / curated score: 8
+, Escape Route 3 / B / score : 25 / curated score: 1
+, Rauðrraven+ / Weapon / score : 25 / curated score: 12
 , Recover+ / Assist / score : 26 / curated score: 10
-, Sing / Assist / score : 27 / curated score: 7
 , Noontime / Special / score : 27 / curated score: 0
+, Sing / Assist / score : 27 / curated score: 7
 , Poison Dagger+ / Weapon / score : 27 / curated score: 12
-, Black Luna / Special / score : 28 / curated score: 7
 , HP +5 / A / score : 28 / curated score: 12
-, Atk Smoke 3 / C / score : 29 / curated score: 2
+, Black Luna / Special / score : 28 / curated score: 7
 , Live to Serve 3 / B / score : 29 / curated score: 16
-, Lightning Breath+ / Weapon / score : 30 / curated score: 9
-, Sturdy Blow 2 / A / score : 30 / curated score: 6
-, Defiant Atk 3 / A / score : 30 / curated score: 0
+, Atk Smoke 3 / C / score : 29 / curated score: 2
 , Dance / Assist / score : 30 / curated score: 11
-, Physic+ / Assist / score : 31 / curated score: 19
+, Lightning Breath+ / Weapon / score : 30 / curated score: 9
+, Defiant Atk 3 / A / score : 30 / curated score: 0
+, Sturdy Blow 2 / A / score : 30 / curated score: 6
 , Seal Atk 3 / B / score : 31 / curated score: 0
+, Physic+ / Assist / score : 31 / curated score: 19
 , Firesweep Lance+ / Weapon / score : 31 / curated score: 18
 , Berkut's Lance+ / Weapon / score : 32 / curated score: 3
 , Bold Fighter 3 / B / score : 32 / curated score: 20
 , Rauðrblade+ / Weapon / score : 32 / curated score: 12
 , Guard 3 / B / score : 33 / curated score: 7
-, Vengeful Fighter 3 / B / score : 33 / curated score: 18
 , Cancel Affinity 3 / B / score : 33 / curated score: 15
+, Vengeful Fighter 3 / B / score : 33 / curated score: 18
 , Sol / Special / score : 34 / curated score: 1
 , Falchion / Weapon / score : 35 / curated score: 9
 , Close Def 3 / A / score : 35 / curated score: 5
 , Speed +3 / A / score : 36 / curated score: 11
+, Poison Strike 3 / B / score : 37 / curated score: 0
 , Heavy Blade 3 / A / score : 37 / curated score: 6
 , Goad Cavalry / C / score : 37 / curated score: 8
-, Poison Strike 3 / B / score : 37 / curated score: 0
 , Wrathful Staff 3 / B / score : 38 / curated score: 13
 , Fortify Cavalry / C / score : 38 / curated score: 7
+, Res Ploy 3 / C / score : 40 / curated score: 15
 , Rehabilitate+ / Assist / score : 40 / curated score: 4
 , Threaten Res 3 / C / score : 40 / curated score: 1
-, Res Ploy 3 / C / score : 40 / curated score: 15
 , Dragon Fang / Special / score : 41 / curated score: 5
-, Axebreaker 3 / B / score : 43 / curated score: 23
-, Windsweep 3 / B / score : 43 / curated score: 7
-, Bowbreaker 3 / B / score : 43 / curated score: 13
 , Blárblade+ / Weapon / score : 43 / curated score: 18
+, Bowbreaker 3 / B / score : 43 / curated score: 13
+, Windsweep 3 / B / score : 43 / curated score: 7
+, Axebreaker 3 / B / score : 43 / curated score: 23
 , Wary Fighter 3 / B / score : 44 / curated score: 16
-, Imbue / ? / score : 45 / curated score: 32
-, Fortress Def 3 / A / score : 45 / curated score: 3
 , Attack +3 / A / score : 45 / curated score: 11
+, Fortress Def 3 / A / score : 45 / curated score: 3
+, Imbue / ? / score : 45 / curated score: 32
 , Gronnblade+ / Weapon / score : 46 / curated score: 16
 , Galeforce / Special / score : 48 / curated score: 18
 , Drag Back / B / score : 49 / curated score: 25
@@ -361,32 +348,32 @@
 , Brave Bow+ / Weapon / score : 52 / curated score: 17
 , Close Counter / A / score : 52 / curated score: 12
 , Hone Atk 3 / C / score : 55 / curated score: 7
-, Slaying Lance+ / Weapon / score : 56 / curated score: 23
-, Slaying Axe+ / Weapon / score : 57 / curated score: 27
 , Miracle / Special / score : 57 / curated score: 32
 , Hone Fliers / C / score : 57 / curated score: 37
-, Slaying Edge+ / Weapon / score : 57 / curated score: 16
 , G Tomebreaker 3 / B / score : 58 / curated score: 26
 , Hone Spd 3 / C / score : 60 / curated score: 11
-, Brave Lance+ / Weapon / score : 66 / curated score: 23
+, Slaying Lance+ / Weapon / score : 64 / curated score: 25
 , Brave Axe+ / Weapon / score : 66 / curated score: 29
+, Brave Lance+ / Weapon / score : 66 / curated score: 23
+, Wings of Mercy 3 / B / score : 68 / curated score: 16
 , Armor March 3 / C / score : 68 / curated score: 34
 , Ward Armor / C / score : 68 / curated score: 39
-, Wings of Mercy 3 / B / score : 68 / curated score: 16
+, Slaying Edge+ / Weapon / score : 69 / curated score: 17
+, Slaying Axe+ / Weapon / score : 71 / curated score: 30
 , Glimmer / Special / score : 72 / curated score: 35
 , Darting Blow 3 / A / score : 74 / curated score: 6
-, Brave Sword+ / Weapon / score : 75 / curated score: 23
 , Panic Ploy 3 / C / score : 75 / curated score: 22
+, Brave Sword+ / Weapon / score : 75 / curated score: 23
 , Wrath 3 / B / score : 77 / curated score: 35
-, Hit and Run / B / score : 79 / curated score: 45
 , Wo Dao+ / Weapon / score : 79 / curated score: 32
+, Hit and Run / B / score : 79 / curated score: 45
 , Lancebreaker 3 / B / score : 83 / curated score: 32
 , Savage Blow 3 / C / score : 88 / curated score: 11
 , Glacies / Special / score : 94 / curated score: 14
 , Triangle Adept 3 / A / score : 97 / curated score: 35
 , Distant Def 3 / A / score : 99 / curated score: 30
-, Def Ploy 3 / C / score : 102 / curated score: 49
 , Aether / Special / score : 102 / curated score: 22
+, Def Ploy 3 / C / score : 102 / curated score: 49
 , Draconic Aura / Special / score : 107 / curated score: 13
 , Hone Cavalry / C / score : 108 / curated score: 48
 , Steady Breath / A / score : 109 / curated score: 53

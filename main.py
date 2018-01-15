@@ -21,6 +21,7 @@ ATTRIBUTE_ABR = {
 }
 
 skills = {}
+evolving_weapons = {}
 heroes = []
 
 def add_exclusive_skill(page):
@@ -38,6 +39,16 @@ def get_legendary_weapons():
     page = requests.get(BASE_URL + "Category:Legendary_Weapons")
     add_exclusive_skill(page)
 
+def get_evolving_weapons():
+    page = requests.get(BASE_URL + "List_of_Evolving_Weapons")
+    tree = html.fromstring(page.content)
+    base_path = "//div[@id='mw-content-text']//table//tr/td[2]/a"
+    base_list = tree.xpath(base_path + "[1]/text()")
+    evolved_list = tree.xpath(base_path + "[2]/text()")
+    for i in range(0, len(base_list)):
+        evolving_weapons[base_list[i]] = evolved_list[i]
+        skills[evolved_list[i]] = Skill(evolved_list[i], NAME_COL[5])
+
 def get_or_create_skill(hero_line, number):
     skill_name = hero_line.xpath("td[" + str(number) + "]/a/text()")
     if not skill_name:
@@ -45,16 +56,21 @@ def get_or_create_skill(hero_line, number):
     skill_name = skill_name[0]
     if skill_name in skills:
         skill = skills[skill_name]
-    else :
+    elif skill_name in evolving_weapons:
+        skill = skills[evolving_weapons[skill_name]]
+    else:
         skill = Skill(skill_name, NAME_COL[number])
         skills[skill_name] = skill
     return skill
 
 def try_finding_skill(skill_name):
-    # handling the fact that some skill are not properly capitalized in the build section
+    # Handling the fact that some skill are not properly capitalized in the build section
     return_skill_name = skill_name[:1].upper() + skill_name[1:]
     if not skill_name in skills:
-        #Handling builds using only the 2nd level version of another one.
+        # Handling evolving weapons
+        if skill_name in evolving_weapons:
+            return_skill_name = evolving_weapons[skill_name]
+        # Handling builds using only the 2nd level version of another one.
         if return_skill_name.replace("2", "3") in skills:
             return_skill_name = return_skill_name.replace("2", "3")
         # Handling builds using only the nonplussed version of a weapon.
@@ -76,7 +92,7 @@ def try_finding_skill(skill_name):
             if unknown_skill and temp_skill in skills:
                 unknown_skill = False
                 return_skill_name = temp_skill
-            # All the other case (level 1 skill, skill not properly named, weapon evolutions)
+            # All the other cases (mostly skill not properly named)
             if unknown_skill:
                 skill = Skill(return_skill_name, "?")
                 skills[return_skill_name] = skill
@@ -124,6 +140,7 @@ def print_skill_file():
         print(sorted(skills.values(), key=operator.attrgetter("score")), file=f)
 
 def main():
+    get_evolving_weapons()
     init_skill_and_hero()
     get_exclusive_passives()
     get_legendary_weapons()
