@@ -15,8 +15,8 @@ NAME_COL = { 5 : "Weapon",
 }
 ATTRIBUTE_ABR = {
     "Res" : "Resistance",
-    "Def" : "Defense"
-    "Atk" : "Attack"
+    "Def" : "Defense",
+    "Atk" : "Attack",
     "Spd" : "Speed"
 }
 
@@ -54,13 +54,32 @@ def try_finding_skill(skill_name):
     # handling the fact that some skill are not properly capitalized in the build section
     return_skill_name = skill_name[:1].upper() + skill_name[1:]
     if not skill_name in skills:
+        #Handling builds using only the 2nd level version of another one.
         if return_skill_name.replace("2", "3") in skills:
             return_skill_name = return_skill_name.replace("2", "3")
+        # Handling builds using only the nonplussed version of a weapon.
         elif return_skill_name + "+" in skills:
             return_skill_name += "+"
         else:
-            skill = Skill(return_skill_name, "?")
-            skills[return_skill_name] = skill
+            temp_skill = return_skill_name
+            unknown_skill = True
+            # Handling skill using an attribute abreviation instead of the full name
+            for attribute in ATTRIBUTE_ABR:
+                temp_skill = temp_skill.replace(attribute, ATTRIBUTE_ABR[attribute])
+            if temp_skill in skills:
+                unknown_skill = False
+                return_skill_name = temp_skill
+            temp_skill = return_skill_name
+            # Handling skill using an attribute full name instead of the abreviation
+            for attribute in ATTRIBUTE_ABR:
+                temp_skill = temp_skill.replace(ATTRIBUTE_ABR[attribute], attribute)
+            if unknown_skill and temp_skill in skills:
+                unknown_skill = False
+                return_skill_name = temp_skill
+            # All the other case (level 1 skill, skill not properly named, weapon evolutions)
+            if unknown_skill:
+                skill = Skill(return_skill_name, "?")
+                skills[return_skill_name] = skill
     return skills[return_skill_name]
 
 def get_skills(tree, is_curated):
@@ -100,7 +119,7 @@ def print_hero_file(is_curated):
         for hero in heroes:
             print(hero.pretty_hero_string(is_curated), file=f)
 
-def print_skill_file()
+def print_skill_file():
     with open("skills.txt", 'w') as f:
         print(sorted(skills.values(), key=operator.attrgetter("score")), file=f)
 
