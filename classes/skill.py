@@ -15,4 +15,4 @@ class Skill:
             self.curated_score+=1
 
     def __repr__(self):
-        return self.name + " / " + self.type + " / " + str(self.score) + "(" + str(self.curated_score) +")\n"
+        return self.name + " / " + self.type + " / score : " + str(self.score) + " / curated score: " + str(self.curated_score) +"\n"

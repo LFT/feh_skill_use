@@ -91,18 +91,18 @@ def init_skill_and_hero():
                 if skill:
                     hero.add_skill(skill)
 
-def print_file(is_curated):
-    filename = "out.txt"
-    score_type = "score"
+def print_hero_file(is_curated):
+    filename = "heroes.txt"
     if is_curated:
         filename = "curated_" + filename
-        score_type = "curated_score"
     with open(filename, 'w') as f:
         heroes.sort(key=lambda hero : hero.get_score(is_curated))
         for hero in heroes:
             print(hero.pretty_hero_string(is_curated), file=f)
-        print("------------------------------------", file=f)
-        print(sorted(skills.values(), key=operator.attrgetter(score_type)), file=f)
+
+def print_skill_file()
+    with open("skills.txt", 'w') as f:
+        print(sorted(skills.values(), key=operator.attrgetter("score")), file=f)
 
 def main():
     init_skill_and_hero()
@@ -110,8 +110,9 @@ def main():
     get_legendary_weapons()
     for hero in heroes:
         browse_hero_builds(hero.name)
-    print_file(True)
-    print_file(False)
+    print_hero_file(True)
+    print_hero_file(False)
+    print_skill_file()
 
 if __name__ == "__main__":
     main()
