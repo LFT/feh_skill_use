@@ -1,208 +1,208 @@
 Elise_(Nohrian_Summer) : 8
 Chrom_(Spring_Festival) : 11
-Corrin_(M)_(Happy_New_Year!) : 23
 Est : 26
+Corrin_(M)_(Happy_New_Year!) : 27
 Virion : 28
 Camilla_(Spring_Festival) : 29
 Soren : 32
 Marth_(Masked) : 35 (Hero has exclusive skill/weapon)
 Shigure_(Performing_Arts) : 37
-Xander : 40 (Hero has exclusive skill/weapon)
-Jeorge : 45 (Hero has exclusive skill/weapon)
-Lute : 46
-Lachesis : 47
-Fjorm : 49 (Hero has exclusive skill/weapon)
+Xander : 39 (Hero has exclusive skill/weapon)
+Jeorge : 46 (Hero has exclusive skill/weapon)
+Lute : 47
+Lachesis : 48
+Fjorm : 52 (Hero has exclusive skill/weapon)
 Raigh : 54
 Kagero : 54
 Priscilla : 55
 Camus : 56 (Hero has exclusive skill/weapon)
 Merric : 56
 Tailtiu : 56
-Sakura : 56
-Gaius : 58
+Gaius : 57
 Corrin_(F)_(Nohrian_Summer) : 58
 Oboro : 59
 Sophia : 60
 Corrin_(M) : 62 (Hero has exclusive skill/weapon)
 Ninian : 62
+Sakura : 62
 Saizo : 63
 Oliver : 64
-Berkut : 66
-Clarine : 70
+Berkut : 68
 Seliph : 71 (Hero has exclusive skill/weapon)
 Sharena : 72 (Hero has exclusive skill/weapon)
-Lilina : 74
+Elise : 74
+Lilina : 75
+Lyn_(Bridal_Blessings) : 77
+Clarine : 77
 Tiki_(Young) : 78
-Elise : 79
-Lyn_(Bridal_Blessings) : 83
 Azura : 88
 Cordelia_(Bridal_Blessings) : 89
+Nowi : 89
 Tiki_(Adult)_(Ylissean_Summer) : 89
-Nowi : 90
 Saber : 90
-Henry_(Trick_or_Defeat!) : 90
-Azura_(Happy_New_Year!) : 91
-Soleil : 92
 Inigo_(Performing_Arts) : 92
 Olivia : 92
 Lyn : 92 (Hero has exclusive skill/weapon)
-Cecilia : 97
+Soleil : 93
+Henry_(Trick_or_Defeat!) : 93
+Azura_(Happy_New_Year!) : 93
 Sheena : 97
 Eliwood : 97 (Hero has exclusive skill/weapon)
-Genny : 97
-Roderick : 97
-Wrys : 98
-Mathilda : 99
-Mist : 99
-Ryoma : 104 (Hero has exclusive skill/weapon)
-Arden : 106 (Hero has exclusive skill/weapon)
-Maria : 106
-Serra : 108
-Caeda : 111
-Faye : 111
+Cecilia : 99
+Genny : 99
+Roderick : 99
+Mathilda : 100
+Wrys : 101
+Ryoma : 103 (Hero has exclusive skill/weapon)
+Serra : 104
+Mist : 106
+Arden : 107 (Hero has exclusive skill/weapon)
+Maria : 108
 Oscar : 111
-Celica : 113
-Clair : 113
-Roy : 114 (Hero has exclusive skill/weapon)
+Caeda : 112
+Celica : 114
+Clair : 114
 Camilla_(Happy_New_Year!) : 115
-Arvis : 117 (Hero has exclusive skill/weapon)
+Roy : 115 (Hero has exclusive skill/weapon)
+Faye : 119
 Julia : 120
-Clive : 126
-Lucius : 127
-Charlotte_(Bridal_Blessings) : 129
-Lukas : 130
-Azura_(Performing_Arts) : 130 (Hero has exclusive skill/weapon)
+Arvis : 123 (Hero has exclusive skill/weapon)
+Clive : 127
 Sigurd : 130 (Hero has exclusive skill/weapon)
-Tharja : 131
-Olivia_(Performing_Arts) : 132
-Zelgius : 136 (Hero has exclusive skill/weapon)
+Lucius : 130
+Azura_(Performing_Arts) : 131 (Hero has exclusive skill/weapon)
+Charlotte_(Bridal_Blessings) : 132
+Tharja : 132
+Olivia_(Performing_Arts) : 133
+Lukas : 134
 Laslow : 137
-Gwendolyn : 137
-Hinoka : 138
-Black_Knight : 139 (Hero has exclusive skill/weapon)
-Gunter : 145
-Lucina_(Spring_Festival) : 146
-Lucina_(Brave_Heroes) : 148 (Hero has exclusive skill/weapon)
-Sakura_(Trick_or_Defeat!) : 149
-Jakob : 150
-Hector : 150 (Hero has exclusive skill/weapon)
-Ogma : 153
-Draug : 153
-Azama : 154
-Chrom : 155 (Hero has exclusive skill/weapon)
-Gunnthr%C3%A1 : 155 (Hero has exclusive skill/weapon)
-Micaiah : 157
-Beruka : 158
-Lucina : 166 (Hero has exclusive skill/weapon)
-Sanaki : 167
-Felicia : 173
-Amelia : 173
-Lissa : 185
-Corrin_(F) : 185
-Takumi : 187 (Hero has exclusive skill/weapon)
+Gwendolyn : 140
+Hinoka : 140
+Zelgius : 142 (Hero has exclusive skill/weapon)
+Gunter : 144
+Lucina_(Brave_Heroes) : 149 (Hero has exclusive skill/weapon)
+Black_Knight : 149 (Hero has exclusive skill/weapon)
+Jakob : 152
+Ogma : 152
+Lucina_(Spring_Festival) : 152
+Hector : 153 (Hero has exclusive skill/weapon)
+Sakura_(Trick_or_Defeat!) : 155
+Chrom : 156 (Hero has exclusive skill/weapon)
+Gunnthr%C3%A1 : 157 (Hero has exclusive skill/weapon)
+Draug : 157
+Beruka : 157
+Azama : 158
+Micaiah : 161
+Lucina : 167 (Hero has exclusive skill/weapon)
+Sanaki : 168
+Felicia : 175
+Amelia : 176
+Corrin_(F) : 186
+Lissa : 189
+Takumi : 194 (Hero has exclusive skill/weapon)
 Rhajat : 195
 Frederick_(Ylissean_Summer) : 198
-Fir : 199
-Michalis : 204 (Hero has exclusive skill/weapon)
-Linde : 206
-Anna : 207 (Hero has exclusive skill/weapon)
-Cordelia : 211
-Narcian : 215
-Niles : 217
+Fir : 200
+Michalis : 205 (Hero has exclusive skill/weapon)
+Anna : 206 (Hero has exclusive skill/weapon)
+Linde : 207
+Cordelia : 213
+Narcian : 214
 Titania : 228
-Robin_(M)_(Winter%27s_Envoy) : 229
-Alm : 230 (Hero has exclusive skill/weapon)
-Setsuna : 232
-Robin_(F) : 235
-Reinhardt : 236
-Cherche : 248
-Innes : 248 (Hero has exclusive skill/weapon)
-Chrom_(Winter%27s_Envoy) : 250
-Jakob_(Trick_or_Defeat!) : 252
-Leo_(Nohrian_Summer) : 253
-Marth : 257 (Hero has exclusive skill/weapon)
-Caeda_(Bridal_Blessings) : 257
-Tobin : 261
-Rebecca : 263
-Matthew : 263
-Hana : 263
-Cain : 271
-Minerva : 272 (Hero has exclusive skill/weapon)
-Lyn_(Brave_Heroes) : 274 (Hero has exclusive skill/weapon)
-Florina : 283
-Tharja_(Winter%27s_Envoy) : 283
-Leon : 285
-Raven : 286
-Katarina : 286
-Gordin : 290
-Donnel : 292
+Niles : 228
+Alm : 229 (Hero has exclusive skill/weapon)
+Robin_(M)_(Winter%27s_Envoy) : 230
+Reinhardt : 235
+Setsuna : 237
+Robin_(F) : 239
+Cherche : 253
+Innes : 254 (Hero has exclusive skill/weapon)
+Leo_(Nohrian_Summer) : 258
+Jakob_(Trick_or_Defeat!) : 259
+Chrom_(Winter%27s_Envoy) : 259
+Matthew : 261
+Marth : 262 (Hero has exclusive skill/weapon)
+Caeda_(Bridal_Blessings) : 262
+Rebecca : 264
+Hana : 264
+Tobin : 266
+Minerva : 273 (Hero has exclusive skill/weapon)
+Cain : 278
+Lyn_(Brave_Heroes) : 280 (Hero has exclusive skill/weapon)
+Florina : 285
+Raven : 287
+Donnel : 290
+Gordin : 291
 Abel : 293
-Henry : 299
-Zephiel : 300 (Hero has exclusive skill/weapon)
+Katarina : 294
+Tharja_(Winter%27s_Envoy) : 296
+Leon : 298
 Clarisse : 301
-Gaius_(Ylissean_Summer) : 303
-Eirika : 303 (Hero has exclusive skill/weapon)
-Lloyd : 307 (Hero has exclusive skill/weapon)
+Henry : 303
+Zephiel : 304 (Hero has exclusive skill/weapon)
+Gaius_(Ylissean_Summer) : 305
+Eirika : 308 (Hero has exclusive skill/weapon)
 Sothe : 311 (Hero has exclusive skill/weapon)
-Roy_(Brave_Heroes) : 324 (Hero has exclusive skill/weapon)
-Ursula : 324
-Gray : 326
-Peri : 329
-Xander_(Spring_Festival) : 330
-Siegbert : 331 (Hero has exclusive skill/weapon)
+Lloyd : 313 (Hero has exclusive skill/weapon)
+Ursula : 326
+Roy_(Brave_Heroes) : 327 (Hero has exclusive skill/weapon)
+Gray : 331
+Peri : 332
+Xander_(Spring_Festival) : 333
+Siegbert : 334 (Hero has exclusive skill/weapon)
 Camilla : 335
-Shiro : 340 (Hero has exclusive skill/weapon)
-Stahl : 345
-Ike : 345 (Hero has exclusive skill/weapon)
-Alfonse : 350 (Hero has exclusive skill/weapon)
-Effie : 351
-Boey : 354
-Frederick : 358
-Delthea : 358
-Lon%27qu : 364
-Robin_(M) : 369
-Seth : 381
-Xander_(Nohrian_Summer) : 381
-Karel : 388
-Nino : 389
-Lissa_(Winter%27s_Envoy) : 391
-Catria : 394
-Ike_(Brave_Heroes) : 404 (Hero has exclusive skill/weapon)
-Ayra : 406 (Hero has exclusive skill/weapon)
-Tiki_(Adult) : 410
-Jaffar : 424 (Hero has exclusive skill/weapon)
-Eldigan : 438 (Hero has exclusive skill/weapon)
-Navarre : 443
-Valter : 443 (Hero has exclusive skill/weapon)
-Leo : 444
-Elincia : 444 (Hero has exclusive skill/weapon)
-Arthur : 449
-Legion : 455
-Bartre : 459
-Hawkeye : 463
-Hinata : 469
-Mia : 482 (Hero has exclusive skill/weapon)
-Sully : 485
-Dorcas : 490 (Hero has exclusive skill/weapon)
-Jagen : 490
-Luke : 506
-Fae : 511
-Deirdre : 534
-Mae : 547
-Tana : 575 (Hero has exclusive skill/weapon)
-Sonya : 617
-Takumi_(Happy_New_Year!) : 618
-Shanna : 628
-Odin : 640
-Joshua : 642 (Hero has exclusive skill/weapon)
-Athena : 663
-Palla : 690
-Subaki : 693
-Nephenee : 701
-Ephraim : 754 (Hero has exclusive skill/weapon)
-Klein : 774
-Robin_(F)_(Ylissean_Summer) : 843
-Olwen : 854
-Nowi_(Trick_or_Defeat!) : 890
-Barst : 902
-Selena : 1035
+Shiro : 344 (Hero has exclusive skill/weapon)
+Ike : 346 (Hero has exclusive skill/weapon)
+Stahl : 348
+Alfonse : 353 (Hero has exclusive skill/weapon)
+Effie : 358
+Boey : 360
+Lon%27qu : 361
+Delthea : 361
+Frederick : 366
+Robin_(M) : 379
+Seth : 385
+Karel : 389
+Xander_(Nohrian_Summer) : 394
+Catria : 397
+Nino : 400
+Lissa_(Winter%27s_Envoy) : 402
+Ike_(Brave_Heroes) : 405 (Hero has exclusive skill/weapon)
+Ayra : 414 (Hero has exclusive skill/weapon)
+Tiki_(Adult) : 418
+Jaffar : 425 (Hero has exclusive skill/weapon)
+Eldigan : 444 (Hero has exclusive skill/weapon)
+Navarre : 445
+Valter : 448 (Hero has exclusive skill/weapon)
+Elincia : 449 (Hero has exclusive skill/weapon)
+Arthur : 452
+Leo : 454
+Legion : 461
+Bartre : 466
+Hawkeye : 467
+Hinata : 476
+Mia : 483 (Hero has exclusive skill/weapon)
+Jagen : 496
+Sully : 496
+Dorcas : 504 (Hero has exclusive skill/weapon)
+Luke : 518
+Fae : 525
+Deirdre : 554
+Mae : 560
+Tana : 582 (Hero has exclusive skill/weapon)
+Sonya : 624
+Takumi_(Happy_New_Year!) : 628
+Shanna : 639
+Odin : 646
+Joshua : 648 (Hero has exclusive skill/weapon)
+Athena : 670
+Palla : 706
+Subaki : 707
+Nephenee : 712
+Ephraim : 762 (Hero has exclusive skill/weapon)
+Klein : 792
+Robin_(F)_(Ylissean_Summer) : 863
+Olwen : 872
+Nowi_(Trick_or_Defeat!) : 911
+Barst : 920
+Selena : 1055
