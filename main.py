@@ -98,20 +98,22 @@ def try_finding_skill(skill_name):
                 skills[return_skill_name] = skill
     return skills[return_skill_name]
 
-def get_skills(tree, is_curated):
+def get_skills(tree, hero_name, is_curated):
     if is_curated:
         path = "//div[@class='curated-builds']"
     else :
         path = "//div[@class='user-builds']"
     path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//a/text()"
     for skill_name in tree.xpath(path):
-        try_finding_skill(skill_name).increase_score(is_curated)
+        skill = try_finding_skill(skill_name)
+        skill.increase_score(is_curated)
+        skill.increase_hero_usage(hero_name, is_curated)
 
 def browse_hero_builds(hero_name):
     page = requests.get(BASE_URL + hero_name + "/Builds")
     tree = html.fromstring(page.content)
-    get_skills(tree, True)
-    get_skills(tree, False)
+    get_skills(tree, hero_name, True)
+    get_skills(tree, hero_name, False)
 
 def init_skill_and_hero():
     page = requests.get(BASE_URL + "Skills_Table")
@@ -137,7 +139,8 @@ def print_hero_file(is_curated):
 
 def print_skill_file():
     with open("skills.txt", 'w') as f:
-        print(sorted(skills.values(), key=operator.attrgetter("score")), file=f)
+        for skill in sorted(skills.values(), key=operator.attrgetter("score")):
+            print(skill.pretty_print(), file=f)
 
 def main():
     get_evolving_weapons()
