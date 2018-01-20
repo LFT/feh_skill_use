@@ -107,7 +107,9 @@ def get_skills(tree, hero_name, is_curated):
     for skill_name in tree.xpath(path):
         skill = try_finding_skill(skill_name)
         skill.increase_score(is_curated)
-        skill.increase_hero_usage(hero_name, is_curated)
+        skill.increase_hero_usage(hero_name, False)
+        if (is_curated):
+            skill.increase_hero_usage(hero_name, True)
 
 def browse_hero_builds(hero_name):
     page = requests.get(BASE_URL + hero_name + "/Builds")
