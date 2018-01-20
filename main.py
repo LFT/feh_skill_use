@@ -106,10 +106,12 @@ def get_skills(tree, hero_name, is_curated):
     path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//a/text()"
     for skill_name in tree.xpath(path):
         skill = try_finding_skill(skill_name)
-        skill.increase_score(is_curated)
-        skill.increase_hero_usage(hero_name, False)
-        if (is_curated):
-            skill.increase_hero_usage(hero_name, True)
+        # We only want skill that are not part of the base hero skillset (i.e inheriting your own skins is useless)
+        if not skill.name in [hero_skill.name for hero_skill in [hero for hero in heroes if hero.name == hero_name][0].skills]:
+            skill.increase_score(is_curated)
+            skill.increase_hero_usage(hero_name, False)
+            if (is_curated):
+                skill.increase_hero_usage(hero_name, True)
 
 def browse_hero_builds(hero_name):
     page = requests.get(BASE_URL + hero_name + "/Builds")
