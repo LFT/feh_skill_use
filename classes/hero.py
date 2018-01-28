@@ -19,7 +19,7 @@ class Hero:
         return False
 
     def pretty_hero_string(self, is_curated):
-        return_string = self.name + " : " + str(self.get_score(is_curated))
+        return_string = self.name.ljust(30) + " : " + str(self.get_score(is_curated))
         if self.has_exclusive_skil():
             return_string += " (Hero has exclusive skill/weapon)"
         return return_string

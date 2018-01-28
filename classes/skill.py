@@ -29,7 +29,7 @@ class Skill:
             self.curated_score+=1
 
     def pretty_print(self):
-        return_string = self.name + " /\ "
+        return_string = self.name.ljust(20) + " -- " +  str(self.score).ljust(2) + "( " + str(self.curated_score).ljust(2) + " ) /\ "
         for hero in sorted(self.usage_by.items(), key=operator.itemgetter(1), reverse=True):
             return_string += hero[0] + " : " + str(hero[1])
             if hero[0] in self.curated_usage_by :
