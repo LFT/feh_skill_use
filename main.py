@@ -38,6 +38,8 @@ def get_exclusive_passives():
 def get_legendary_weapons():
     page = requests.get(BASE_URL + "Category:Legendary_Weapons")
     add_exclusive_skill(page)
+    page = requests.get(BASE_URL + "Category:Legendary_Tomes")
+    add_exclusive_skill(page)
 
 def get_evolving_weapons():
     page = requests.get(BASE_URL + "List_of_Evolving_Weapons")
@@ -145,6 +147,8 @@ def print_skill_file():
     skill_previous_type = "";
     with open("skills.txt", 'w') as f:
         for skill in sorted(skills.values(), key=operator.attrgetter("type", "score")):
+            if skill.exclusive:
+                continue
             if skill.type != skill_previous_type:
                 print("", file=f)
                 print(skill.type, file=f)
