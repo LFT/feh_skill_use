@@ -46,21 +46,21 @@ Camilla_(Happy_New_Year!)      : 11
 L%27Arachel                    : 11
 Tiki_(Adult)_(Ylissean_Summer) : 11
 Azura                          : 12
+Jakob                          : 12
 Lissa                          : 12
 Lute                           : 12
 Oliver                         : 12
 Rebecca                        : 12
 Seliph                         : 12 (Hero has exclusive skill/weapon)
 Elise                          : 13
-Jakob                          : 13
 Tharja                         : 13
 Azama                          : 14
 Lyn                            : 14 (Hero has exclusive skill/weapon)
 Clarine                        : 15
 Corrin_(F)                     : 15
 Lachesis                       : 15
+Mathilda                       : 15
 Wrys                           : 15
-Mathilda                       : 16
 Saber                          : 16
 Tailtiu                        : 16
 Felicia                        : 17
@@ -69,10 +69,10 @@ Matthew                        : 17
 Lukas                          : 18
 Ogma                           : 18
 Arden                          : 19 (Hero has exclusive skill/weapon)
+Cecilia                        : 19
 Linde                          : 19
 Sakura                         : 19
 Black_Knight                   : 20 (Hero has exclusive skill/weapon)
-Cecilia                        : 20
 Chrom                          : 21 (Hero has exclusive skill/weapon)
 Lucina                         : 21 (Hero has exclusive skill/weapon)
 Gunnthr%C3%A1                  : 22 (Hero has exclusive skill/weapon)
@@ -126,10 +126,10 @@ Lloyd                          : 54 (Hero has exclusive skill/weapon)
 Chrom_(Winter%27s_Envoy)       : 56
 Marth                          : 56 (Hero has exclusive skill/weapon)
 Caeda_(Bridal_Blessings)       : 57
-Draug                          : 57
 Hana                           : 57
 Minerva                        : 57 (Hero has exclusive skill/weapon)
 Zephiel                        : 57 (Hero has exclusive skill/weapon)
+Draug                          : 59
 Jakob_(Trick_or_Defeat!)       : 59
 Roy_(Brave_Heroes)             : 59 (Hero has exclusive skill/weapon)
 Navarre                        : 60

@@ -103,7 +103,7 @@ def get_skills(tree, hero_name, is_curated):
         path = "//div[@class='curated-builds']"
     else :
         path = "//div[@class='user-builds']"
-    path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//a/text()"
+    path += "//div[@class='skillbuild-section']/div[position() >=1 and position() <4]//span[@class='tooltip']/a/text()"
     for skill_name in tree.xpath(path):
         skill = try_finding_skill(skill_name)
         # We only want skill that are not part of the base hero skillset (i.e inheriting your own skins is useless)
@@ -142,8 +142,14 @@ def print_hero_file(is_curated):
             print(hero.pretty_hero_string(is_curated), file=f)
 
 def print_skill_file():
+    skill_previous_type = "";
     with open("skills.txt", 'w') as f:
-        for skill in sorted(skills.values(), key=operator.attrgetter("score")):
+        for skill in sorted(skills.values(), key=operator.attrgetter("type", "score")):
+            if skill.type != skill_previous_type:
+                print("", file=f)
+                print(skill.type, file=f)
+                print("", file=f)
+                skill_previous_type = skill.type
             print(skill.pretty_print(), file=f)
 
 def main():
