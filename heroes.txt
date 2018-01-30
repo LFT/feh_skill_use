@@ -65,8 +65,8 @@ Sigurd                         : 95 (Hero has exclusive skill/weapon)
 Azura_(Performing_Arts)        : 95 (Hero has exclusive skill/weapon)
 Cecilia                        : 97
 Julia                          : 100 (Hero has exclusive skill/weapon)
-Oscar                          : 100
 Lukas                          : 101
+Oscar                          : 101
 Olivia_(Performing_Arts)       : 103
 Chrom                          : 104 (Hero has exclusive skill/weapon)
 Celica                         : 104 (Hero has exclusive skill/weapon)

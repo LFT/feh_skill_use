@@ -24,22 +24,20 @@ skills = {}
 evolving_weapons = {}
 heroes = []
 
-def add_exclusive_skill(page):
+def add_exclusive_skill(skill_type):
+    page = requests.get(BASE_URL + "Category:" + skill_type)
     tree = html.fromstring(page.content)
     for skill in tree.xpath("//div[@class='mw-category-generated']//a/text()"):
         skill_name = skill.split("(")[0].strip()
         if skill_name in skills:
             skills[skill_name].set_exclusive()
 
-def get_exclusive_passives():
-    page = requests.get(BASE_URL + "Category:Exclusive_Passives")
-    add_exclusive_skill(page)
-
-def get_legendary_weapons():
-    page = requests.get(BASE_URL + "Category:Legendary_Weapons")
-    add_exclusive_skill(page)
-    page = requests.get(BASE_URL + "Category:Legendary_Tomes")
-    add_exclusive_skill(page)
+def get_exclusive_skills():
+    add_exclusive_skill("Exclusive_Passives")
+    add_exclusive_skill("Exclusive_Assists")
+    add_exclusive_skill("Exclusive_Specials")
+    add_exclusive_skill("Legendary_Weapons")
+    add_exclusive_skill("Legendary_Tomes")
 
 def get_evolving_weapons():
     page = requests.get(BASE_URL + "List_of_Evolving_Weapons")
@@ -146,7 +144,7 @@ def print_hero_file(is_curated):
 def print_skill_file():
     skill_previous_type = "";
     with open("skills.txt", 'w') as f:
-        for skill in sorted(skills.values(), key=operator.attrgetter("type", "score")):
+        for skill in sorted(skills.values(), key=operator.attrgetter("type", "score", "name")):
             if skill.exclusive:
                 continue
             if skill.type != skill_previous_type:
@@ -159,8 +157,7 @@ def print_skill_file():
 def main():
     get_evolving_weapons()
     init_skill_and_hero()
-    get_exclusive_passives()
-    get_legendary_weapons()
+    get_exclusive_skills()
     for hero in heroes:
         browse_hero_builds(hero.name)
     print_hero_file(True)
