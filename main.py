@@ -23,6 +23,8 @@ ATTRIBUTE_ABR = {
 skills = {}
 evolving_weapons = {}
 heroes = []
+ignored_hero_list = []
+included_hero_list = []
 
 def add_exclusive_skill(skill_type):
     page = requests.get(BASE_URL + "Category:" + skill_type)
@@ -158,8 +160,13 @@ def main():
     get_evolving_weapons()
     init_skill_and_hero()
     get_exclusive_skills()
-    for hero in heroes:
-        browse_hero_builds(hero.name)
+    if (not included_hero_list):
+        for hero in heroes:
+            if (hero.name not in ignored_hero_list):
+                browse_hero_builds(hero.name)
+    else :
+        for hero_name in included_hero_list:
+            browse_hero_builds(hero_name)
     print_hero_file(True)
     print_hero_file(False)
     print_skill_file()
